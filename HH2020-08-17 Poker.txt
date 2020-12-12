@@ -1,0 +1,4506 @@
+﻿Starting tournament 26
+
+Hand #1819-1 - 2020-08-17 21:05:13
+Game: NL Hold'em (3000+0) - Blinds 10/20
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3000)
+Seat 2: killahBee (3000)
+Seat 3: nathanwebber (3000) - sitting out
+Seat 4: RD5000 (3000)
+Seat 5: drewmarvell (3000) - sitting out
+Seat 7: Hillions (3000)
+Seat 8: DanAbu (3000)
+Seat 9: tlanj (3000)
+Seat 10: Bench_Apple (3000)
+AAlexAA has the dealer button
+killahBee posts small blind 10
+nathanwebber posts big blind 20
+** Hole Cards ** [9 players]
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu calls 20
+tlanj folds
+Bench_Apple calls 20
+AAlexAA folds
+killahBee calls 10
+nathanwebber checks
+** Flop ** [2s 4s 6c]
+killahBee checks
+nathanwebber bets 80
+DanAbu folds
+Bench_Apple folds
+killahBee folds
+nathanwebber refunded 80
+nathanwebber wins Pot (80)
+** Summary **
+Board: [2s 4s 6c], Players: 9, Pots: 1, Total: 80, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [7s 2d] Folded on PreFlop
+Seat 2: killahBee (-20) [Qc 3c] Folded on Flop
+Seat 3: nathanwebber (+60) [8h 6h] Won without Showdown
+Seat 4: RD5000 (+0) [2h Ks] Folded on PreFlop
+Seat 5: drewmarvell (+0) [Kc Jd] Folded on PreFlop
+Seat 7: Hillions (+0) [Qd 8s] Folded on PreFlop
+Seat 8: DanAbu (-20) [7d Ad] Folded on Flop
+Seat 9: tlanj (+0) [Js 5h] Folded on PreFlop
+Seat 10: Bench_Apple (-20) [Tc 2c] Folded on Flop
+
+Hand #1820-2 - 2020-08-17 21:06:35
+Game: NL Hold'em (3000+0) - Blinds 10/20
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3000)
+Seat 2: killahBee (2980)
+Seat 3: nathanwebber (3060)
+Seat 4: RD5000 (3000)
+Seat 5: drewmarvell (3000)
+Seat 7: Hillions (3000)
+Seat 8: DanAbu (2980)
+Seat 9: tlanj (3000)
+Seat 10: Bench_Apple (2980)
+killahBee has the dealer button
+nathanwebber posts small blind 10
+RD5000 posts big blind 20
+** Hole Cards ** [9 players]
+drewmarvell folds
+Hillions calls 20
+DanAbu calls 20
+tlanj calls 20
+Bench_Apple folds
+AAlexAA calls 20
+killahBee folds
+nathanwebber calls 10
+RD5000 checks
+** Flop ** [7h Qh 9d]
+nathanwebber checks
+RD5000 folds
+Hillions checks
+DanAbu checks
+tlanj bets 60
+AAlexAA folds
+nathanwebber folds
+Hillions folds
+DanAbu calls 60
+** Turn ** [8h]
+DanAbu bets 120
+tlanj calls 120
+** River ** [2c]
+DanAbu bets 240
+tlanj folds and shows [Ks Tc]
+DanAbu refunded 240
+DanAbu wins Pot (480)
+DanAbu shows [Th 6h]
+** Summary **
+Board: [7h Qh 9d 8h 2c], Players: 9, Pots: 1, Total: 480, Rake: 0, End: River
+Seat 1: AAlexAA (-20) [As 8c] Folded on Flop
+Seat 2: killahBee (+0) [2h 3c] Folded on PreFlop
+Seat 3: nathanwebber (-20) [Kc 6d] Folded on Flop
+Seat 4: RD5000 (-20) [5h 3s] Folded on Flop
+Seat 5: drewmarvell (+0) [9s Ts] Folded on PreFlop
+Seat 7: Hillions (-20) [4s 5s] Folded on Flop
+Seat 8: DanAbu (+280) [Th 6h] Won without Showdown
+Seat 9: tlanj (-200) [Ks Tc] Folded on River
+Seat 10: Bench_Apple (+0) [Qs 5c] Folded on PreFlop
+
+Hand #1821-3 - 2020-08-17 21:09:23
+Game: NL Hold'em (3000+0) - Blinds 10/20
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2980)
+Seat 2: killahBee (2980)
+Seat 3: nathanwebber (3040)
+Seat 4: RD5000 (2980)
+Seat 5: drewmarvell (3000)
+Seat 7: Hillions (2980)
+Seat 8: DanAbu (3260)
+Seat 9: tlanj (2800)
+Seat 10: Bench_Apple (2980)
+nathanwebber has the dealer button
+RD5000 posts small blind 10
+drewmarvell posts big blind 20
+** Hole Cards ** [9 players]
+Hillions calls 20
+DanAbu calls 20
+tlanj folds
+Bench_Apple calls 20
+AAlexAA calls 20
+killahBee calls 20
+nathanwebber folds
+RD5000 folds
+drewmarvell checks
+** Flop ** [2h Kc 3h]
+drewmarvell checks
+Hillions bets 45
+DanAbu folds
+Bench_Apple folds
+AAlexAA folds
+killahBee calls 45
+drewmarvell folds
+** Turn ** [5h]
+Hillions bets 100
+killahBee calls 100
+** River ** [Ks]
+Hillions checks
+killahBee checks
+** Pot Show Down ** [2h Kc 3h 5h Ks]
+killahBee shows [5s 4s] (Two Pair, Kings and Fives +4)
+Hillions shows [6c 6d] (Two Pair, Kings and Sixes +5)
+Hillions wins Pot (420) with Two Pair
+** Summary **
+Board: [2h Kc 3h 5h Ks], Players: 9, Pots: 1, Total: 420, Rake: 0, End: Showdown
+Seat 1: AAlexAA (-20) [9d 8d] Folded on Flop
+Seat 2: killahBee (-165) [5s 4s] Showdown with Two Pair, Kings and Fives +4
+Seat 3: nathanwebber (+0) [4h Kd] Folded on PreFlop
+Seat 4: RD5000 (-10) [6s 8s] Folded on PreFlop
+Seat 5: drewmarvell (-20) [7d 2c] Folded on Flop
+Seat 7: Hillions (+255) [6c 6d] Showdown with Two Pair, Kings and Sixes +5
+Seat 8: DanAbu (-20) [3c As] Folded on Flop
+Seat 9: tlanj (+0) [Js 2s] Folded on PreFlop
+Seat 10: Bench_Apple (-20) [Ac Th] Folded on Flop
+
+Hand #1822-4 - 2020-08-17 21:10:57
+Game: NL Hold'em (3000+0) - Blinds 10/20
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2960)
+Seat 2: killahBee (2815)
+Seat 3: nathanwebber (3040)
+Seat 4: RD5000 (2970)
+Seat 5: drewmarvell (2980)
+Seat 7: Hillions (3235)
+Seat 8: DanAbu (3240)
+Seat 9: tlanj (2800)
+Seat 10: Bench_Apple (2960)
+RD5000 has the dealer button
+drewmarvell posts small blind 10
+Hillions posts big blind 20
+** Hole Cards ** [9 players]
+DanAbu folds
+tlanj calls 20
+Bench_Apple folds
+AAlexAA calls 20
+killahBee folds
+nathanwebber raises to 80
+RD5000 folds
+drewmarvell folds
+Hillions folds
+tlanj calls 60
+AAlexAA folds
+** Flop ** [8h 7s 9d]
+tlanj bets 210
+nathanwebber folds
+tlanj refunded 210
+tlanj wins Pot (210)
+** Summary **
+Board: [8h 7s 9d], Players: 9, Pots: 1, Total: 210, Rake: 0, End: Flop
+Seat 1: AAlexAA (-20) [7h 2h] Folded on PreFlop
+Seat 2: killahBee (+0) [4s Jd] Folded on PreFlop
+Seat 3: nathanwebber (-80) [As 4h] Folded on Flop
+Seat 4: RD5000 (+0) [6h Jc] Folded on PreFlop
+Seat 5: drewmarvell (-10) [5h Kd] Folded on PreFlop
+Seat 7: Hillions (-20) [Td 5s] Folded on PreFlop
+Seat 8: DanAbu (+0) [Jh 3c] Folded on PreFlop
+Seat 9: tlanj (+130) [Kc 9c] Won without Showdown
+Seat 10: Bench_Apple (+0) [8s Qd] Folded on PreFlop
+
+Hand #1823-5 - 2020-08-17 21:12:42
+Game: NL Hold'em (3000+0) - Blinds 10/20
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2940)
+Seat 2: killahBee (2815)
+Seat 3: nathanwebber (2960)
+Seat 4: RD5000 (2970)
+Seat 5: drewmarvell (2970)
+Seat 7: Hillions (3215)
+Seat 8: DanAbu (3240)
+Seat 9: tlanj (2930)
+Seat 10: Bench_Apple (2960)
+drewmarvell has the dealer button
+Hillions posts small blind 10
+DanAbu posts big blind 20
+** Hole Cards ** [9 players]
+tlanj folds
+Bench_Apple raises to 100
+AAlexAA folds
+killahBee folds
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu folds
+Bench_Apple refunded 80
+Bench_Apple wins Pot (50)
+** Summary **
+Board: [], Players: 9, Pots: 1, Total: 50, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [8s 3c] Folded on PreFlop
+Seat 2: killahBee (+0) [7s 4c] Folded on PreFlop
+Seat 3: nathanwebber (+0) [8d 2h] Folded on PreFlop
+Seat 4: RD5000 (+0) [Qh 9d] Folded on PreFlop
+Seat 5: drewmarvell (+0) [Qc 2d] Folded on PreFlop
+Seat 7: Hillions (-10) [7h 3s] Folded on PreFlop
+Seat 8: DanAbu (-20) [9h Jd] Folded on PreFlop
+Seat 9: tlanj (+0) [2c Qd] Folded on PreFlop
+Seat 10: Bench_Apple (+30) [5d 5c] Won without Showdown
+
+Hand #1824-6 - 2020-08-17 21:13:17
+Game: NL Hold'em (3000+0) - Blinds 10/20
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2940)
+Seat 2: killahBee (2815)
+Seat 3: nathanwebber (2960)
+Seat 4: RD5000 (2970)
+Seat 5: drewmarvell (2970)
+Seat 7: Hillions (3205)
+Seat 8: DanAbu (3220)
+Seat 9: tlanj (2930)
+Seat 10: Bench_Apple (2990)
+Hillions has the dealer button
+DanAbu posts small blind 10
+tlanj posts big blind 20
+** Hole Cards ** [9 players]
+Bench_Apple folds
+AAlexAA folds
+killahBee folds
+nathanwebber calls 20
+RD5000 calls 20
+drewmarvell calls 20
+Hillions folds
+DanAbu calls 10
+tlanj checks
+** Flop ** [5h Qh Th]
+DanAbu bets 100
+tlanj folds
+nathanwebber calls 100
+RD5000 folds
+drewmarvell folds
+** Turn ** [3s]
+DanAbu bets 150
+nathanwebber calls 150
+** River ** [6h]
+DanAbu checks
+nathanwebber checks
+** Pot Show Down ** [5h Qh Th 3s 6h]
+nathanwebber shows [Jd 9h] (a Flush, Queen high +T965)
+DanAbu shows [Ks Qc] (a Pair of Queens +KT6)
+nathanwebber wins Pot (600) with a Flush
+** Summary **
+Board: [5h Qh Th 3s 6h], Players: 9, Pots: 1, Total: 600, Rake: 0, End: Showdown
+Seat 1: AAlexAA (+0) [Ts 3h] Folded on PreFlop
+Seat 2: killahBee (+0) [4d Tc] Folded on PreFlop
+Seat 3: nathanwebber (+330) [Jd 9h] Showdown with a Flush, Queen high +T965
+Seat 4: RD5000 (-20) [Qd 6d] Folded on Flop
+Seat 5: drewmarvell (-20) [Td 8d] Folded on Flop
+Seat 7: Hillions (+0) [7h 9d] Folded on PreFlop
+Seat 8: DanAbu (-270) [Ks Qc] Showdown with a Pair of Queens +KT6
+Seat 9: tlanj (-20) [4h 5c] Folded on Flop
+Seat 10: Bench_Apple (+0) [2s 5d] Folded on PreFlop
+
+Hand #1825-7 - 2020-08-17 21:14:59
+Game: NL Hold'em (3000+0) - Blinds 10/20
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2940)
+Seat 2: killahBee (2815)
+Seat 3: nathanwebber (3290)
+Seat 4: RD5000 (2950)
+Seat 5: drewmarvell (2950)
+Seat 7: Hillions (3205)
+Seat 8: DanAbu (2950)
+Seat 9: tlanj (2910)
+Seat 10: Bench_Apple (2990)
+DanAbu has the dealer button
+tlanj posts small blind 10
+Bench_Apple posts big blind 20
+** Hole Cards ** [9 players]
+AAlexAA calls 20
+killahBee folds
+nathanwebber raises to 80
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+Bench_Apple folds
+AAlexAA calls 60
+** Flop ** [5h 6c 8d]
+AAlexAA bets 160
+nathanwebber calls 160
+** Turn ** [3s]
+AAlexAA checks
+nathanwebber bets 200
+AAlexAA folds
+nathanwebber refunded 200
+nathanwebber wins Pot (510)
+nathanwebber shows [9s 8s]
+** Summary **
+Board: [5h 6c 8d 3s], Players: 9, Pots: 1, Total: 510, Rake: 0, End: Turn
+Seat 1: AAlexAA (-240) [5d Ah] Folded on Turn
+Seat 2: killahBee (+0) [Jc 3h] Folded on PreFlop
+Seat 3: nathanwebber (+270) [9s 8s] Won without Showdown
+Seat 4: RD5000 (+0) [8c Ts] Folded on PreFlop
+Seat 5: drewmarvell (+0) [3c 4s] Folded on PreFlop
+Seat 7: Hillions (+0) [4c Kh] Folded on PreFlop
+Seat 8: DanAbu (+0) [6s 9c] Folded on PreFlop
+Seat 9: tlanj (-10) [Qs 7s] Folded on PreFlop
+Seat 10: Bench_Apple (-20) [6d 9h] Folded on PreFlop
+
+Hand #1826-8 - 2020-08-17 21:16:11
+Game: NL Hold'em (3000+0) - Blinds 15/30
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2700)
+Seat 2: killahBee (2815)
+Seat 3: nathanwebber (3560)
+Seat 4: RD5000 (2950)
+Seat 5: drewmarvell (2950)
+Seat 7: Hillions (3205)
+Seat 8: DanAbu (2950)
+Seat 9: tlanj (2900)
+Seat 10: Bench_Apple (2970)
+tlanj has the dealer button
+Bench_Apple posts small blind 15
+AAlexAA posts big blind 30
+** Hole Cards ** [9 players]
+killahBee folds
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj calls 30
+Bench_Apple calls 15
+AAlexAA raises to 150
+tlanj folds
+Bench_Apple calls 120
+** Flop ** [5h 7s 5d]
+Bench_Apple checks
+AAlexAA bets 150
+Bench_Apple folds
+AAlexAA refunded 150
+AAlexAA wins Pot (330)
+** Summary **
+Board: [5h 7s 5d], Players: 9, Pots: 1, Total: 330, Rake: 0, End: Flop
+Seat 1: AAlexAA (+180) [Qs Qh] Won without Showdown
+Seat 2: killahBee (+0) [3c Th] Folded on PreFlop
+Seat 3: nathanwebber (+0) [Jh 5c] Folded on PreFlop
+Seat 4: RD5000 (+0) [4d 9c] Folded on PreFlop
+Seat 5: drewmarvell (+0) [Kd 2h] Folded on PreFlop
+Seat 7: Hillions (+0) [7c 6h] Folded on PreFlop
+Seat 8: DanAbu (+0) [Jd 7h] Folded on PreFlop
+Seat 9: tlanj (-30) [5s 4s] Folded on PreFlop
+Seat 10: Bench_Apple (-150) [Ts Qc] Folded on Flop
+
+Hand #1827-9 - 2020-08-17 21:17:29
+Game: NL Hold'em (3000+0) - Blinds 15/30
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2880)
+Seat 2: killahBee (2815)
+Seat 3: nathanwebber (3560)
+Seat 4: RD5000 (2950)
+Seat 5: drewmarvell (2950)
+Seat 7: Hillions (3205)
+Seat 8: DanAbu (2950)
+Seat 9: tlanj (2870)
+Seat 10: Bench_Apple (2820)
+Bench_Apple has the dealer button
+AAlexAA posts small blind 15
+killahBee posts big blind 30
+** Hole Cards ** [9 players]
+nathanwebber calls 30
+RD5000 folds
+drewmarvell folds
+Hillions calls 30
+DanAbu folds
+tlanj folds
+Bench_Apple folds
+AAlexAA raises to 100
+killahBee folds
+nathanwebber calls 70
+Hillions calls 70
+** Flop ** [Js 5s 9s]
+AAlexAA bets 100
+nathanwebber calls 100
+Hillions folds
+** Turn ** [8s]
+AAlexAA bets 420
+nathanwebber calls 420
+** River ** [3s]
+AAlexAA bets 420
+nathanwebber folds
+AAlexAA refunded 420
+AAlexAA wins Pot (1370)
+** Summary **
+Board: [Js 5s 9s 8s 3s], Players: 9, Pots: 1, Total: 1370, Rake: 0, End: River
+Seat 1: AAlexAA (+750) [Ac Ah] Won without Showdown
+Seat 2: killahBee (-30) [4d 5h] Folded on PreFlop
+Seat 3: nathanwebber (-620) [Ts Jh] Folded on River
+Seat 4: RD5000 (+0) [Ks 3c] Folded on PreFlop
+Seat 5: drewmarvell (+0) [Jd 5c] Folded on PreFlop
+Seat 7: Hillions (-100) [Kd 2d] Folded on Flop
+Seat 8: DanAbu (+0) [2h 6d] Folded on PreFlop
+Seat 9: tlanj (+0) [6c Tc] Folded on PreFlop
+Seat 10: Bench_Apple (+0) [3d Qd] Folded on PreFlop
+
+Hand #1828-10 - 2020-08-17 21:19:52
+Game: NL Hold'em (3000+0) - Blinds 15/30
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3630)
+Seat 2: killahBee (2785)
+Seat 3: nathanwebber (2940)
+Seat 4: RD5000 (2950)
+Seat 5: drewmarvell (2950)
+Seat 7: Hillions (3105)
+Seat 8: DanAbu (2950)
+Seat 9: tlanj (2870)
+Seat 10: Bench_Apple (2820)
+AAlexAA has the dealer button
+killahBee posts small blind 15
+nathanwebber posts big blind 30
+** Hole Cards ** [9 players]
+RD5000 calls 30
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+Bench_Apple folds
+AAlexAA calls 30
+killahBee calls 15
+nathanwebber raises to 120
+RD5000 calls 90
+AAlexAA calls 90
+killahBee folds
+** Flop ** [Th 9d 3s]
+nathanwebber bets 120
+RD5000 folds
+AAlexAA folds
+nathanwebber refunded 120
+nathanwebber wins Pot (390)
+** Summary **
+Board: [Th 9d 3s], Players: 9, Pots: 1, Total: 390, Rake: 0, End: Flop
+Seat 1: AAlexAA (-120) [As 8d] Folded on Flop
+Seat 2: killahBee (-30) [5h 9s] Folded on PreFlop
+Seat 3: nathanwebber (+270) [Td Qd] Won without Showdown
+Seat 4: RD5000 (-120) [Ad Jh] Folded on Flop
+Seat 5: drewmarvell (+0) [2s 8c] Folded on PreFlop
+Seat 7: Hillions (+0) [9h 2d] Folded on PreFlop
+Seat 8: DanAbu (+0) [Qh 4d] Folded on PreFlop
+Seat 9: tlanj (+0) [Ts 2c] Folded on PreFlop
+Seat 10: Bench_Apple (+0) [7s Qc] Folded on PreFlop
+
+Hand #1829-11 - 2020-08-17 21:20:56
+Game: NL Hold'em (3000+0) - Blinds 15/30
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3510)
+Seat 2: killahBee (2755)
+Seat 3: nathanwebber (3210)
+Seat 4: RD5000 (2830)
+Seat 5: drewmarvell (2950)
+Seat 7: Hillions (3105)
+Seat 8: DanAbu (2950)
+Seat 9: tlanj (2870)
+Seat 10: Bench_Apple (2820)
+killahBee has the dealer button
+nathanwebber posts small blind 15
+RD5000 posts big blind 30
+** Hole Cards ** [9 players]
+drewmarvell calls 30
+Hillions raises to 90
+DanAbu folds
+tlanj folds
+Bench_Apple folds
+AAlexAA folds
+killahBee folds
+nathanwebber folds
+RD5000 folds
+drewmarvell calls 60
+** Flop ** [Qd 2d Qs]
+drewmarvell bets 120
+Hillions calls 120
+** Turn ** [Tc]
+drewmarvell checks
+Hillions bets 200
+drewmarvell folds
+Hillions refunded 200
+Hillions wins Pot (465)
+** Summary **
+Board: [Qd 2d Qs Tc], Players: 9, Pots: 1, Total: 465, Rake: 0, End: Turn
+Seat 1: AAlexAA (+0) [4d 3d] Folded on PreFlop
+Seat 2: killahBee (+0) [Jc 2c] Folded on PreFlop
+Seat 3: nathanwebber (-15) [6d Ah] Folded on PreFlop
+Seat 4: RD5000 (-30) [Jh 2s] Folded on PreFlop
+Seat 5: drewmarvell (-210) [As 7s] Folded on Turn
+Seat 7: Hillions (+255) [Ad Jd] Won without Showdown
+Seat 8: DanAbu (+0) [6c 4h] Folded on PreFlop
+Seat 9: tlanj (+0) [2h Td] Folded on PreFlop
+Seat 10: Bench_Apple (+0) [Kh 8d] Folded on PreFlop
+
+Hand #1830-12 - 2020-08-17 21:22:16
+Game: NL Hold'em (3000+0) - Blinds 15/30
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3510)
+Seat 2: killahBee (2755)
+Seat 3: nathanwebber (3195)
+Seat 4: RD5000 (2800)
+Seat 5: drewmarvell (2740)
+Seat 7: Hillions (3360)
+Seat 8: DanAbu (2950)
+Seat 9: tlanj (2870)
+Seat 10: Bench_Apple (2820)
+nathanwebber has the dealer button
+RD5000 posts small blind 15
+drewmarvell posts big blind 30
+** Hole Cards ** [9 players]
+Hillions folds
+DanAbu folds
+tlanj folds
+Bench_Apple raises to 120
+AAlexAA folds
+killahBee folds
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+Bench_Apple refunded 90
+Bench_Apple wins Pot (75)
+** Summary **
+Board: [], Players: 9, Pots: 1, Total: 75, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [6s 8d] Folded on PreFlop
+Seat 2: killahBee (+0) [Jh 8c] Folded on PreFlop
+Seat 3: nathanwebber (+0) [3c 2d] Folded on PreFlop
+Seat 4: RD5000 (-15) [7c Ks] Folded on PreFlop
+Seat 5: drewmarvell (-30) [3h Tc] Folded on PreFlop
+Seat 7: Hillions (+0) [3d 9s] Folded on PreFlop
+Seat 8: DanAbu (+0) [2c 6c] Folded on PreFlop
+Seat 9: tlanj (+0) [5d Qd] Folded on PreFlop
+Seat 10: Bench_Apple (+45) [Ts Qh] Won without Showdown
+
+Hand #1831-13 - 2020-08-17 21:22:50
+Game: NL Hold'em (3000+0) - Blinds 15/30
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3510)
+Seat 2: killahBee (2755)
+Seat 3: nathanwebber (3195)
+Seat 4: RD5000 (2785)
+Seat 5: drewmarvell (2710)
+Seat 7: Hillions (3360)
+Seat 8: DanAbu (2950)
+Seat 9: tlanj (2870)
+Seat 10: Bench_Apple (2865)
+RD5000 has the dealer button
+drewmarvell posts small blind 15
+Hillions posts big blind 30
+** Hole Cards ** [9 players]
+DanAbu calls 30
+tlanj folds
+Bench_Apple folds
+AAlexAA calls 30
+killahBee folds
+nathanwebber folds
+RD5000 calls 30
+drewmarvell folds
+Hillions checks
+** Flop ** [5c 2d 4s]
+Hillions checks
+DanAbu checks
+AAlexAA checks
+RD5000 checks
+** Turn ** [Td]
+Hillions bets 50
+DanAbu calls 50
+AAlexAA calls 50
+RD5000 folds
+** River ** [Qs]
+Hillions bets 135
+DanAbu raises to 390
+AAlexAA folds
+Hillions folds
+DanAbu refunded 255
+DanAbu wins Pot (555)
+** Summary **
+Board: [5c 2d 4s Td Qs], Players: 9, Pots: 1, Total: 555, Rake: 0, End: River
+Seat 1: AAlexAA (-80) [9d 7d] Folded on River
+Seat 2: killahBee (+0) [Tc 6c] Folded on PreFlop
+Seat 3: nathanwebber (+0) [6h Jc] Folded on PreFlop
+Seat 4: RD5000 (-30) [Js Kd] Folded on Turn
+Seat 5: drewmarvell (-15) [3d Qh] Folded on PreFlop
+Seat 7: Hillions (-215) [9h 6d] Folded on River
+Seat 8: DanAbu (+340) [3h Ah] Won without Showdown
+Seat 9: tlanj (+0) [Qc Th] Folded on PreFlop
+Seat 10: Bench_Apple (+0) [8h 7c] Folded on PreFlop
+
+Hand #1832-14 - 2020-08-17 21:25:13
+Game: NL Hold'em (3000+0) - Blinds 25/50
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3430)
+Seat 2: killahBee (2755)
+Seat 3: nathanwebber (3195)
+Seat 4: RD5000 (2755)
+Seat 5: drewmarvell (2695)
+Seat 7: Hillions (3145)
+Seat 8: DanAbu (3290)
+Seat 9: tlanj (2870)
+Seat 10: Bench_Apple (2865)
+drewmarvell has the dealer button
+Hillions posts small blind 25
+DanAbu posts big blind 50
+** Hole Cards ** [9 players]
+tlanj folds
+Bench_Apple folds
+AAlexAA folds
+killahBee calls 50
+nathanwebber raises to 150
+RD5000 folds
+drewmarvell folds
+Hillions calls 125
+DanAbu folds
+killahBee folds
+** Flop ** [Qh 5h Td]
+Hillions bets 200
+nathanwebber raises to 400
+Hillions calls 200
+** Turn ** [4d]
+Hillions bets 600
+nathanwebber calls 600
+** River ** [5c]
+Hillions checks
+nathanwebber checks
+** Pot Show Down ** [Qh 5h Td 4d 5c]
+nathanwebber shows [Qs 9s] (Two Pair, Queens and Fives +T)
+Hillions shows [Jh Kh] (a Pair of Fives +KQJ)
+nathanwebber wins Pot (2400) with Two Pair
+** Summary **
+Board: [Qh 5h Td 4d 5c], Players: 9, Pots: 1, Total: 2400, Rake: 0, End: Showdown
+Seat 1: AAlexAA (+0) [6s 3d] Folded on PreFlop
+Seat 2: killahBee (-50) [Kc Tc] Folded on PreFlop
+Seat 3: nathanwebber (+1250) [Qs 9s] Showdown with Two Pair, Queens and Fives +T
+Seat 4: RD5000 (+0) [8s 5d] Folded on PreFlop
+Seat 5: drewmarvell (+0) [9h Jd] Folded on PreFlop
+Seat 7: Hillions (-1150) [Jh Kh] Showdown with a Pair of Fives +KQJ
+Seat 8: DanAbu (-50) [4c 3s] Folded on PreFlop
+Seat 9: tlanj (+0) [9c Th] Folded on PreFlop
+Seat 10: Bench_Apple (+0) [8d 7d] Folded on PreFlop
+
+Hand #1833-15 - 2020-08-17 21:26:44
+Game: NL Hold'em (3000+0) - Blinds 25/50
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3430)
+Seat 2: killahBee (2705)
+Seat 3: nathanwebber (4445)
+Seat 4: RD5000 (2755)
+Seat 5: drewmarvell (2695)
+Seat 7: Hillions (1995)
+Seat 8: DanAbu (3240)
+Seat 9: tlanj (2870)
+Seat 10: Bench_Apple (2865)
+Hillions has the dealer button
+DanAbu posts small blind 25
+tlanj posts big blind 50
+** Hole Cards ** [9 players]
+Bench_Apple folds
+AAlexAA folds
+killahBee folds
+nathanwebber raises to 200
+RD5000 folds
+drewmarvell folds
+Hillions calls 200
+DanAbu folds
+tlanj calls 150
+** Flop ** [5c Kh Ad]
+tlanj checks
+nathanwebber bets 300
+Hillions folds
+tlanj has timed out
+tlanj folds
+nathanwebber refunded 300
+nathanwebber wins Pot (625)
+nathanwebber shows [Ah Jh]
+** Summary **
+Board: [5c Kh Ad], Players: 9, Pots: 1, Total: 625, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [7s Jc] Folded on PreFlop
+Seat 2: killahBee (+0) [3s Qd] Folded on PreFlop
+Seat 3: nathanwebber (+425) [Ah Jh] Won without Showdown
+Seat 4: RD5000 (+0) [6s Ks] Folded on PreFlop
+Seat 5: drewmarvell (+0) [3d 2s] Folded on PreFlop
+Seat 7: Hillions (-200) [7c 8c] Folded on Flop
+Seat 8: DanAbu (-25) [Ac Ts] Folded on PreFlop
+Seat 9: tlanj (-200) [Tc Td] Folded on Flop
+Seat 10: Bench_Apple (+0) [Js 4h] Folded on PreFlop
+
+Hand #1834-16 - 2020-08-17 21:28:42
+Game: NL Hold'em (3000+0) - Blinds 25/50
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3430)
+Seat 2: killahBee (2705)
+Seat 3: nathanwebber (4870)
+Seat 4: RD5000 (2755)
+Seat 5: drewmarvell (2695)
+Seat 7: Hillions (1795)
+Seat 8: DanAbu (3215)
+Seat 9: tlanj (2670) - sitting out
+Seat 10: Bench_Apple (2865)
+DanAbu has the dealer button
+tlanj posts small blind 25
+Bench_Apple posts big blind 50
+** Hole Cards ** [9 players]
+AAlexAA folds
+killahBee calls 50
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+Bench_Apple checks
+** Flop ** [Ks Qd 3c]
+Bench_Apple checks
+killahBee bets 100
+Bench_Apple folds
+killahBee refunded 100
+killahBee wins Pot (125)
+** Summary **
+Board: [Ks Qd 3c], Players: 9, Pots: 1, Total: 125, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [5d Tc] Folded on PreFlop
+Seat 2: killahBee (+75) [9c As] Won without Showdown
+Seat 3: nathanwebber (+0) [4c 8h] Folded on PreFlop
+Seat 4: RD5000 (+0) [3d 7s] Folded on PreFlop
+Seat 5: drewmarvell (+0) [Jh 4d] Folded on PreFlop
+Seat 7: Hillions (+0) [Qs 8d] Folded on PreFlop
+Seat 8: DanAbu (+0) [9s 4h] Folded on PreFlop
+Seat 9: tlanj (-25) [6c Kh] Folded on PreFlop
+Seat 10: Bench_Apple (-50) [5h 9d] Folded on Flop
+
+Hand #1835-17 - 2020-08-17 21:29:31
+Game: NL Hold'em (3000+0) - Blinds 25/50
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3430)
+Seat 2: killahBee (2780)
+Seat 3: nathanwebber (4870)
+Seat 4: RD5000 (2755)
+Seat 5: drewmarvell (2695)
+Seat 7: Hillions (1795)
+Seat 8: DanAbu (3215)
+Seat 9: tlanj (2645)
+Seat 10: Bench_Apple (2815)
+tlanj has the dealer button
+Bench_Apple posts small blind 25
+AAlexAA posts big blind 50
+** Hole Cards ** [9 players]
+killahBee folds
+nathanwebber folds
+RD5000 calls 50
+drewmarvell folds
+Hillions calls 50
+DanAbu calls 50
+tlanj raises to 250
+Bench_Apple calls 225
+AAlexAA folds
+RD5000 calls 200
+Hillions calls 200
+DanAbu folds
+** Flop ** [3d Js 2s]
+Bench_Apple bets 550
+RD5000 calls 550
+Hillions folds
+tlanj folds
+** Turn ** [Jh]
+Bench_Apple checks
+RD5000 bets 550
+Bench_Apple folds
+RD5000 refunded 550
+RD5000 wins Pot (2200)
+RD5000 shows [As 3s]
+** Summary **
+Board: [3d Js 2s Jh], Players: 9, Pots: 1, Total: 2200, Rake: 0, End: Turn
+Seat 1: AAlexAA (-50) [5c 6h] Folded on PreFlop
+Seat 2: killahBee (+0) [8h 6c] Folded on PreFlop
+Seat 3: nathanwebber (+0) [Th 9c] Folded on PreFlop
+Seat 4: RD5000 (+1400) [As 3s] Won without Showdown
+Seat 5: drewmarvell (+0) [7s Jc] Folded on PreFlop
+Seat 7: Hillions (-250) [3c Ac] Folded on Flop
+Seat 8: DanAbu (-50) [9d Qc] Folded on PreFlop
+Seat 9: tlanj (-250) [Ts Tc] Folded on Flop
+Seat 10: Bench_Apple (-800) [Kc Qd] Folded on Turn
+
+Hand #1836-18 - 2020-08-17 21:31:42
+Game: NL Hold'em (3000+0) - Blinds 25/50
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3380)
+Seat 2: killahBee (2780)
+Seat 3: nathanwebber (4870)
+Seat 4: RD5000 (4155)
+Seat 5: drewmarvell (2695)
+Seat 7: Hillions (1545)
+Seat 8: DanAbu (3165)
+Seat 9: tlanj (2395)
+Seat 10: Bench_Apple (2015)
+Bench_Apple has the dealer button
+AAlexAA posts small blind 25
+killahBee posts big blind 50
+** Hole Cards ** [9 players]
+nathanwebber calls 50
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu calls 50
+tlanj folds
+Bench_Apple calls 50
+AAlexAA calls 25
+killahBee checks
+** Flop ** [7s 9c Tc]
+AAlexAA bets 100
+killahBee calls 100
+nathanwebber calls 100
+DanAbu raises to 700
+Bench_Apple folds
+AAlexAA calls 600
+killahBee folds
+nathanwebber folds
+** Turn ** [7d]
+AAlexAA bets 500
+DanAbu calls 500
+** River ** [Jd]
+AAlexAA bets 450
+DanAbu calls 450
+** Pot Show Down ** [7s 9c Tc 7d Jd]
+AAlexAA shows [8s Jc] (a Straight, Seven to Jack)
+DanAbu shows [Td 9s] (Two Pair, Tens and Nines +J)
+AAlexAA wins Pot (3750) with a Straight
+** Summary **
+Board: [7s 9c Tc 7d Jd], Players: 9, Pots: 1, Total: 3750, Rake: 0, End: Showdown
+Seat 1: AAlexAA (+2050) [8s Jc] Showdown with a Straight, Seven to Jack
+Seat 2: killahBee (-150) [8h 9h] Folded on Flop
+Seat 3: nathanwebber (-150) [Js Kc] Folded on Flop
+Seat 4: RD5000 (+0) [Qs 4c] Folded on PreFlop
+Seat 5: drewmarvell (+0) [4s 7c] Folded on PreFlop
+Seat 7: Hillions (+0) [3s Ks] Folded on PreFlop
+Seat 8: DanAbu (-1700) [Td 9s] Showdown with Two Pair, Tens and Nines +J
+Seat 9: tlanj (+0) [6h 5d] Folded on PreFlop
+Seat 10: Bench_Apple (-50) [Kh 3h] Folded on Flop
+
+Hand #1837-19 - 2020-08-17 21:34:08
+Game: NL Hold'em (3000+0) - Blinds 25/50
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5430)
+Seat 2: killahBee (2630)
+Seat 3: nathanwebber (4720)
+Seat 4: RD5000 (4155)
+Seat 5: drewmarvell (2695)
+Seat 7: Hillions (1545)
+Seat 8: DanAbu (1465)
+Seat 9: tlanj (2395)
+Seat 10: Bench_Apple (1965)
+AAlexAA has the dealer button
+killahBee posts small blind 25
+nathanwebber posts big blind 50
+** Hole Cards ** [9 players]
+RD5000 calls 50
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+Bench_Apple calls 50
+AAlexAA calls 50
+killahBee calls 25
+nathanwebber checks
+** Flop ** [Th 5s 6h]
+killahBee bets 150
+nathanwebber folds
+RD5000 folds
+Bench_Apple raises to 300
+AAlexAA folds
+killahBee folds
+Bench_Apple refunded 150
+Bench_Apple wins Pot (550)
+Bench_Apple shows [Js Jh]
+** Summary **
+Board: [Th 5s 6h], Players: 9, Pots: 1, Total: 550, Rake: 0, End: Flop
+Seat 1: AAlexAA (-50) [As 8c] Folded on Flop
+Seat 2: killahBee (-200) [2c 6c] Folded on Flop
+Seat 3: nathanwebber (-50) [4s Qh] Folded on Flop
+Seat 4: RD5000 (-50) [8h 8s] Folded on Flop
+Seat 5: drewmarvell (+0) [7d Tc] Folded on PreFlop
+Seat 7: Hillions (+0) [5c Qc] Folded on PreFlop
+Seat 8: DanAbu (+0) [7s Ks] Folded on PreFlop
+Seat 9: tlanj (+0) [9d 6d] Folded on PreFlop
+Seat 10: Bench_Apple (+350) [Js Jh] Won without Showdown
+
+Hand #1838-20 - 2020-08-17 21:35:54
+Game: NL Hold'em (3000+0) - Blinds 50/100
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5380)
+Seat 2: killahBee (2430)
+Seat 3: nathanwebber (4670)
+Seat 4: RD5000 (4105)
+Seat 5: drewmarvell (2695)
+Seat 7: Hillions (1545)
+Seat 8: DanAbu (1465)
+Seat 9: tlanj (2395)
+Seat 10: Bench_Apple (2315)
+killahBee has the dealer button
+nathanwebber posts small blind 50
+RD5000 posts big blind 100
+** Hole Cards ** [9 players]
+drewmarvell raises to 300
+Hillions folds
+DanAbu folds
+tlanj raises to 700
+Bench_Apple folds
+AAlexAA folds
+killahBee folds
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+tlanj refunded 400
+tlanj wins Pot (750)
+** Summary **
+Board: [], Players: 9, Pots: 1, Total: 750, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [6c Qc] Folded on PreFlop
+Seat 2: killahBee (+0) [4d 9d] Folded on PreFlop
+Seat 3: nathanwebber (-50) [3s 7s] Folded on PreFlop
+Seat 4: RD5000 (-100) [Jd 6h] Folded on PreFlop
+Seat 5: drewmarvell (-300) [Ah Ts] Folded on PreFlop
+Seat 7: Hillions (+0) [4c 5s] Folded on PreFlop
+Seat 8: DanAbu (+0) [Th Js] Folded on PreFlop
+Seat 9: tlanj (+450) [Td Tc] Won without Showdown
+Seat 10: Bench_Apple (+0) [As Jc] Folded on PreFlop
+
+Hand #1839-21 - 2020-08-17 21:37:00
+Game: NL Hold'em (3000+0) - Blinds 50/100
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5380)
+Seat 2: killahBee (2430)
+Seat 3: nathanwebber (4620)
+Seat 4: RD5000 (4005)
+Seat 5: drewmarvell (2395)
+Seat 7: Hillions (1545)
+Seat 8: DanAbu (1465)
+Seat 9: tlanj (2845)
+Seat 10: Bench_Apple (2315)
+nathanwebber has the dealer button
+RD5000 posts small blind 50
+drewmarvell posts big blind 100
+** Hole Cards ** [9 players]
+Hillions calls 100
+DanAbu folds
+tlanj calls 100
+Bench_Apple raises to 600
+AAlexAA folds
+killahBee folds
+nathanwebber folds
+RD5000 calls 550
+drewmarvell folds
+Hillions folds
+tlanj folds
+** Flop ** [Tc 5s 9c]
+RD5000 checks
+Bench_Apple checks
+** Turn ** [Ks]
+RD5000 bets 400
+Bench_Apple raises to 1715 (All-in)
+RD5000 calls 1315
+** River ** [2h]
+** Pot Show Down ** [Tc 5s 9c Ks 2h]
+RD5000 shows [Kd Ad] (a Pair of Kings +AT9)
+Bench_Apple shows [6h 6s] (a Pair of Sixes +KT9)
+RD5000 wins Pot (4930) with a Pair
+Bench_Apple finishes tournament in place #9
+** Summary **
+Board: [Tc 5s 9c Ks 2h], Players: 9, Pots: 1, Total: 4930, Rake: 0, End: Showdown
+Seat 1: AAlexAA (+0) [Qs 7c] Folded on PreFlop
+Seat 2: killahBee (+0) [Jc 3d] Folded on PreFlop
+Seat 3: nathanwebber (+0) [9s 2s] Folded on PreFlop
+Seat 4: RD5000 (+2615) [Kd Ad] Showdown with a Pair of Kings +AT9
+Seat 5: drewmarvell (-100) [Kc 5h] Folded on PreFlop
+Seat 7: Hillions (-100) [9d 9h] Folded on PreFlop
+Seat 8: DanAbu (+0) [Th 4c] Folded on PreFlop
+Seat 9: tlanj (-100) [As 2d] Folded on PreFlop
+Seat 10: Bench_Apple (-2315) [6h 6s] Showdown with a Pair of Sixes +KT9
+
+Hand #1840-22 - 2020-08-17 21:39:08
+Game: NL Hold'em (3000+0) - Blinds 50/100
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5380)
+Seat 2: killahBee (2430)
+Seat 3: nathanwebber (4620)
+Seat 4: RD5000 (6620)
+Seat 5: drewmarvell (2295)
+Seat 7: Hillions (1445)
+Seat 8: DanAbu (1465)
+Seat 9: tlanj (2745)
+RD5000 has the dealer button
+drewmarvell posts small blind 50
+Hillions posts big blind 100
+** Hole Cards ** [8 players]
+DanAbu folds
+tlanj calls 100
+AAlexAA folds
+killahBee folds
+nathanwebber folds
+RD5000 folds
+drewmarvell calls 50
+Hillions checks
+** Flop ** [Ks 2h Qh]
+drewmarvell checks
+Hillions bets 100
+tlanj folds
+drewmarvell folds
+Hillions refunded 100
+Hillions wins Pot (300)
+Hillions shows [Td 2s]
+** Summary **
+Board: [Ks 2h Qh], Players: 8, Pots: 1, Total: 300, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [4c 7h] Folded on PreFlop
+Seat 2: killahBee (+0) [7d Th] Folded on PreFlop
+Seat 3: nathanwebber (+0) [4h 7s] Folded on PreFlop
+Seat 4: RD5000 (+0) [5h Qs] Folded on PreFlop
+Seat 5: drewmarvell (-100) [9s 8h] Folded on Flop
+Seat 7: Hillions (+200) [Td 2s] Won without Showdown
+Seat 8: DanAbu (+0) [Qd 8c] Folded on PreFlop
+Seat 9: tlanj (-100) [As Tc] Folded on Flop
+
+Hand #1841-23 - 2020-08-17 21:39:57
+Game: NL Hold'em (3000+0) - Blinds 50/100
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5380)
+Seat 2: killahBee (2430)
+Seat 3: nathanwebber (4620)
+Seat 4: RD5000 (6620)
+Seat 5: drewmarvell (2195)
+Seat 7: Hillions (1645)
+Seat 8: DanAbu (1465)
+Seat 9: tlanj (2645)
+drewmarvell has the dealer button
+Hillions posts small blind 50
+DanAbu posts big blind 100
+** Hole Cards ** [8 players]
+tlanj folds
+AAlexAA folds
+killahBee calls 100
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+Hillions calls 50
+DanAbu checks
+** Flop ** [2c Kh 4c]
+Hillions checks
+DanAbu checks
+killahBee checks
+** Turn ** [6h]
+Hillions checks
+DanAbu bets 100
+killahBee folds
+Hillions folds
+DanAbu refunded 100
+DanAbu wins Pot (300)
+** Summary **
+Board: [2c Kh 4c 6h], Players: 8, Pots: 1, Total: 300, Rake: 0, End: Turn
+Seat 1: AAlexAA (+0) [9s 5d] Folded on PreFlop
+Seat 2: killahBee (-100) [Ac 9h] Folded on Turn
+Seat 3: nathanwebber (+0) [6c Jh] Folded on PreFlop
+Seat 4: RD5000 (+0) [8d Tc] Folded on PreFlop
+Seat 5: drewmarvell (+0) [9d Js] Folded on PreFlop
+Seat 7: Hillions (-100) [3h Ad] Folded on Turn
+Seat 8: DanAbu (+200) [5c 7s] Won without Showdown
+Seat 9: tlanj (+0) [8c 3c] Folded on PreFlop
+
+Hand #1842-24 - 2020-08-17 21:41:31
+Game: NL Hold'em (3000+0) - Blinds 50/100
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5380)
+Seat 2: killahBee (2330)
+Seat 3: nathanwebber (4620)
+Seat 4: RD5000 (6620)
+Seat 5: drewmarvell (2195)
+Seat 7: Hillions (1545)
+Seat 8: DanAbu (1665)
+Seat 9: tlanj (2645)
+Hillions has the dealer button
+DanAbu posts small blind 50
+tlanj posts big blind 100
+** Hole Cards ** [8 players]
+AAlexAA folds
+killahBee folds
+nathanwebber raises to 400
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+nathanwebber refunded 300
+nathanwebber wins Pot (250)
+nathanwebber shows [Ks Ad]
+** Summary **
+Board: [], Players: 8, Pots: 1, Total: 250, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [Jc 3c] Folded on PreFlop
+Seat 2: killahBee (+0) [Qh 6d] Folded on PreFlop
+Seat 3: nathanwebber (+150) [Ks Ad] Won without Showdown
+Seat 4: RD5000 (+0) [Tc 7c] Folded on PreFlop
+Seat 5: drewmarvell (+0) [3s 2h] Folded on PreFlop
+Seat 7: Hillions (+0) [8h 4h] Folded on PreFlop
+Seat 8: DanAbu (-50) [4c Qc] Folded on PreFlop
+Seat 9: tlanj (-100) [Ah 7d] Folded on PreFlop
+
+Hand #1843-25 - 2020-08-17 21:42:44
+Game: NL Hold'em (3000+0) - Blinds 50/100
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5380)
+Seat 2: killahBee (2330)
+Seat 3: nathanwebber (4770)
+Seat 4: RD5000 (6620)
+Seat 5: drewmarvell (2195)
+Seat 7: Hillions (1545)
+Seat 8: DanAbu (1615)
+Seat 9: tlanj (2545)
+DanAbu has the dealer button
+tlanj posts small blind 50
+AAlexAA posts big blind 100
+** Hole Cards ** [8 players]
+killahBee folds
+nathanwebber calls 100
+RD5000 folds
+drewmarvell folds
+Hillions raises to 200
+DanAbu calls 200
+tlanj folds
+AAlexAA calls 100
+nathanwebber calls 100
+** Flop ** [7c 2c 8d]
+AAlexAA bets 200
+nathanwebber folds
+Hillions folds
+DanAbu folds
+AAlexAA refunded 200
+AAlexAA wins Pot (850)
+** Summary **
+Board: [7c 2c 8d], Players: 8, Pots: 1, Total: 850, Rake: 0, End: Flop
+Seat 1: AAlexAA (+650) [As 2s] Won without Showdown
+Seat 2: killahBee (+0) [Qh Ts] Folded on PreFlop
+Seat 3: nathanwebber (-200) [Th Ks] Folded on Flop
+Seat 4: RD5000 (+0) [4s 3d] Folded on PreFlop
+Seat 5: drewmarvell (+0) [9d 8s] Folded on PreFlop
+Seat 7: Hillions (-200) [Td Kd] Folded on Flop
+Seat 8: DanAbu (-200) [Js Ah] Folded on Flop
+Seat 9: tlanj (-50) [Kh 3c] Folded on PreFlop
+
+Hand #1844-26 - 2020-08-17 21:43:22
+Game: NL Hold'em (3000+0) - Blinds 50/100
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (6030)
+Seat 2: killahBee (2330)
+Seat 3: nathanwebber (4570)
+Seat 4: RD5000 (6620)
+Seat 5: drewmarvell (2195)
+Seat 7: Hillions (1345)
+Seat 8: DanAbu (1415)
+Seat 9: tlanj (2495)
+tlanj has the dealer button
+AAlexAA posts small blind 50
+killahBee posts big blind 100
+** Hole Cards ** [8 players]
+nathanwebber calls 100
+RD5000 folds
+drewmarvell calls 100
+Hillions folds
+DanAbu raises to 500
+tlanj folds
+AAlexAA folds
+killahBee folds
+nathanwebber calls 400
+drewmarvell calls 400
+** Flop ** [Ts 2d 4d]
+nathanwebber checks
+drewmarvell bets 400
+DanAbu folds
+nathanwebber folds
+drewmarvell refunded 400
+drewmarvell wins Pot (1650)
+** Summary **
+Board: [Ts 2d 4d], Players: 8, Pots: 1, Total: 1650, Rake: 0, End: Flop
+Seat 1: AAlexAA (-50) [5d Js] Folded on PreFlop
+Seat 2: killahBee (-100) [8s Kd] Folded on PreFlop
+Seat 3: nathanwebber (-500) [7s As] Folded on Flop
+Seat 4: RD5000 (+0) [8h 7c] Folded on PreFlop
+Seat 5: drewmarvell (+1150) [Ks Qh] Won without Showdown
+Seat 7: Hillions (+0) [9h 6d] Folded on PreFlop
+Seat 8: DanAbu (-500) [Ad Kh] Folded on Flop
+Seat 9: tlanj (+0) [5h 8d] Folded on PreFlop
+
+Hand #1845-27 - 2020-08-17 21:44:31
+Game: NL Hold'em (3000+0) - Blinds 50/100
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5980)
+Seat 2: killahBee (2230)
+Seat 3: nathanwebber (4070)
+Seat 4: RD5000 (6620)
+Seat 5: drewmarvell (3345)
+Seat 7: Hillions (1345)
+Seat 8: DanAbu (915)
+Seat 9: tlanj (2495)
+AAlexAA has the dealer button
+killahBee posts small blind 50
+nathanwebber posts big blind 100
+** Hole Cards ** [8 players]
+RD5000 raises to 200
+drewmarvell folds
+Hillions calls 200
+DanAbu folds
+tlanj folds
+AAlexAA folds
+killahBee calls 150
+nathanwebber calls 100
+** Flop ** [9c 3c Js]
+killahBee checks
+nathanwebber checks
+RD5000 bets 200
+Hillions raises to 1145 (All-in)
+killahBee folds
+nathanwebber folds
+RD5000 folds
+Hillions refunded 945
+Hillions wins Pot (1200)
+** Summary **
+Board: [9c 3c Js], Players: 8, Pots: 1, Total: 1200, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [Ah 8d] Folded on PreFlop
+Seat 2: killahBee (-200) [8c 7c] Folded on Flop
+Seat 3: nathanwebber (-200) [Qd 8s] Folded on Flop
+Seat 4: RD5000 (-400) [6d 6c] Folded on Flop
+Seat 5: drewmarvell (+0) [7d 9s] Folded on PreFlop
+Seat 7: Hillions (+800) [Qc Jd] Won without Showdown
+Seat 8: DanAbu (+0) [6h 5h] Folded on PreFlop
+Seat 9: tlanj (+0) [3s Kd] Folded on PreFlop
+
+Hand #1846-28 - 2020-08-17 21:46:14
+Game: NL Hold'em (3000+0) - Blinds 75/150
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5980)
+Seat 2: killahBee (2030)
+Seat 3: nathanwebber (3870)
+Seat 4: RD5000 (6220)
+Seat 5: drewmarvell (3345)
+Seat 7: Hillions (2145)
+Seat 8: DanAbu (915)
+Seat 9: tlanj (2495)
+killahBee has the dealer button
+nathanwebber posts small blind 75
+RD5000 posts big blind 150
+** Hole Cards ** [8 players]
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA folds
+killahBee folds
+nathanwebber folds
+RD5000 refunded 75
+RD5000 wins Pot (150)
+** Summary **
+Board: [], Players: 8, Pots: 1, Total: 150, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [5d Qh] Folded on PreFlop
+Seat 2: killahBee (+0) [2d 4s] Folded on PreFlop
+Seat 3: nathanwebber (-75) [4c 9d] Folded on PreFlop
+Seat 4: RD5000 (+75) [Ts Td] Won without Showdown
+Seat 5: drewmarvell (+0) [2h Tc] Folded on PreFlop
+Seat 7: Hillions (+0) [Kd 3s] Folded on PreFlop
+Seat 8: DanAbu (+0) [6d Jc] Folded on PreFlop
+Seat 9: tlanj (+0) [3h 8s] Folded on PreFlop
+
+Hand #1847-29 - 2020-08-17 21:46:46
+Game: NL Hold'em (3000+0) - Blinds 75/150
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5980)
+Seat 2: killahBee (2030)
+Seat 3: nathanwebber (3795)
+Seat 4: RD5000 (6295)
+Seat 5: drewmarvell (3345)
+Seat 7: Hillions (2145)
+Seat 8: DanAbu (915)
+Seat 9: tlanj (2495)
+nathanwebber has the dealer button
+RD5000 posts small blind 75
+drewmarvell posts big blind 150
+** Hole Cards ** [8 players]
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA raises to 300
+killahBee folds
+nathanwebber folds
+RD5000 folds
+drewmarvell calls 150
+** Flop ** [8h 6h Tc]
+drewmarvell bets 600
+AAlexAA calls 600
+** Turn ** [3h]
+drewmarvell bets 750
+AAlexAA folds
+drewmarvell refunded 750
+drewmarvell wins Pot (1875)
+** Summary **
+Board: [8h 6h Tc 3h], Players: 8, Pots: 1, Total: 1875, Rake: 0, End: Turn
+Seat 1: AAlexAA (-900) [Td Kd] Folded on Turn
+Seat 2: killahBee (+0) [7c 6d] Folded on PreFlop
+Seat 3: nathanwebber (+0) [Jc 5h] Folded on PreFlop
+Seat 4: RD5000 (-75) [8c 2c] Folded on PreFlop
+Seat 5: drewmarvell (+975) [Qh Th] Won without Showdown
+Seat 7: Hillions (+0) [7d Kc] Folded on PreFlop
+Seat 8: DanAbu (+0) [As 9d] Folded on PreFlop
+Seat 9: tlanj (+0) [4s 3c] Folded on PreFlop
+
+Hand #1848-30 - 2020-08-17 21:47:38
+Game: NL Hold'em (3000+0) - Blinds 75/150
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5080)
+Seat 2: killahBee (2030)
+Seat 3: nathanwebber (3795)
+Seat 4: RD5000 (6220)
+Seat 5: drewmarvell (4320)
+Seat 7: Hillions (2145)
+Seat 8: DanAbu (915)
+Seat 9: tlanj (2495)
+RD5000 has the dealer button
+drewmarvell posts small blind 75
+Hillions posts big blind 150
+** Hole Cards ** [8 players]
+DanAbu folds
+tlanj calls 150
+AAlexAA folds
+killahBee calls 150
+nathanwebber folds
+RD5000 folds
+drewmarvell calls 75
+Hillions checks
+** Flop ** [4s 3c Qd]
+drewmarvell checks
+Hillions checks
+tlanj bets 300
+killahBee folds
+drewmarvell folds
+Hillions folds
+tlanj refunded 300
+tlanj wins Pot (600)
+** Summary **
+Board: [4s 3c Qd], Players: 8, Pots: 1, Total: 600, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [Kh 9s] Folded on PreFlop
+Seat 2: killahBee (-150) [2s Ac] Folded on Flop
+Seat 3: nathanwebber (+0) [8h Qc] Folded on PreFlop
+Seat 4: RD5000 (+0) [3s Jd] Folded on PreFlop
+Seat 5: drewmarvell (-150) [9d 7s] Folded on Flop
+Seat 7: Hillions (-150) [8s 6d] Folded on Flop
+Seat 8: DanAbu (+0) [5s 4h] Folded on PreFlop
+Seat 9: tlanj (+450) [7d Kd] Won without Showdown
+
+Hand #1849-31 - 2020-08-17 21:49:01
+Game: NL Hold'em (3000+0) - Blinds 75/150
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5080)
+Seat 2: killahBee (1880)
+Seat 3: nathanwebber (3795)
+Seat 4: RD5000 (6220)
+Seat 5: drewmarvell (4170)
+Seat 7: Hillions (1995)
+Seat 8: DanAbu (915)
+Seat 9: tlanj (2945)
+drewmarvell has the dealer button
+Hillions posts small blind 75
+DanAbu posts big blind 150
+** Hole Cards ** [8 players]
+tlanj folds
+AAlexAA folds
+killahBee folds
+nathanwebber raises to 300
+RD5000 calls 300
+drewmarvell folds
+Hillions calls 225
+DanAbu folds
+** Flop ** [8h Tc Qd]
+Hillions checks
+nathanwebber bets 600
+RD5000 folds
+Hillions folds
+nathanwebber refunded 600
+nathanwebber wins Pot (1050)
+** Summary **
+Board: [8h Tc Qd], Players: 8, Pots: 1, Total: 1050, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [4c Qs] Folded on PreFlop
+Seat 2: killahBee (+0) [2s 6c] Folded on PreFlop
+Seat 3: nathanwebber (+750) [Kh Kc] Won without Showdown
+Seat 4: RD5000 (-300) [4h As] Folded on Flop
+Seat 5: drewmarvell (+0) [Ks 8s] Folded on PreFlop
+Seat 7: Hillions (-300) [3d Ad] Folded on Flop
+Seat 8: DanAbu (-150) [3s 8c] Folded on PreFlop
+Seat 9: tlanj (+0) [7s 3c] Folded on PreFlop
+
+Hand #1850-32 - 2020-08-17 21:49:46
+Game: NL Hold'em (3000+0) - Blinds 75/150
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5080)
+Seat 2: killahBee (1880)
+Seat 3: nathanwebber (4545)
+Seat 4: RD5000 (5920)
+Seat 5: drewmarvell (4170)
+Seat 7: Hillions (1695)
+Seat 8: DanAbu (765)
+Seat 9: tlanj (2945)
+Hillions has the dealer button
+DanAbu posts small blind 75
+tlanj posts big blind 150
+** Hole Cards ** [8 players]
+AAlexAA folds
+killahBee folds
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu calls 75
+tlanj checks
+** Flop ** [Kh Kc 5h]
+DanAbu checks
+tlanj bets 300
+DanAbu folds
+tlanj refunded 300
+tlanj wins Pot (300)
+** Summary **
+Board: [Kh Kc 5h], Players: 8, Pots: 1, Total: 300, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [Th 6s] Folded on PreFlop
+Seat 2: killahBee (+0) [Qd Td] Folded on PreFlop
+Seat 3: nathanwebber (+0) [Ks 7s] Folded on PreFlop
+Seat 4: RD5000 (+0) [Jd 5s] Folded on PreFlop
+Seat 5: drewmarvell (+0) [5d Jh] Folded on PreFlop
+Seat 7: Hillions (+0) [3s Js] Folded on PreFlop
+Seat 8: DanAbu (-150) [Ts 7c] Folded on Flop
+Seat 9: tlanj (+150) [9d As] Won without Showdown
+
+Hand #1851-33 - 2020-08-17 21:50:49
+Game: NL Hold'em (3000+0) - Blinds 75/150
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5080)
+Seat 2: killahBee (1880)
+Seat 3: nathanwebber (4545)
+Seat 4: RD5000 (5920)
+Seat 5: drewmarvell (4170)
+Seat 7: Hillions (1695)
+Seat 8: DanAbu (615)
+Seat 9: tlanj (3095)
+DanAbu has the dealer button
+tlanj posts small blind 75
+AAlexAA posts big blind 150
+** Hole Cards ** [8 players]
+killahBee calls 150
+nathanwebber raises to 600
+RD5000 folds
+drewmarvell calls 600
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA folds
+killahBee folds
+** Flop ** [4c 7h 8c]
+nathanwebber bets 750
+drewmarvell raises to 1500
+nathanwebber calls 750
+** Turn ** [5c]
+nathanwebber checks
+drewmarvell bets 450
+nathanwebber calls 450
+** River ** [6c]
+nathanwebber checks
+drewmarvell bets 450
+nathanwebber calls 450
+** Pot Show Down ** [4c 7h 8c 5c 6c]
+nathanwebber shows [Qd Qc] (a Flush, Queen high +8654)
+drewmarvell shows [Kc Ac] (a Flush, Ace high +K865)
+drewmarvell wins Pot (6375) with a Flush
+** Summary **
+Board: [4c 7h 8c 5c 6c], Players: 8, Pots: 1, Total: 6375, Rake: 0, End: Showdown
+Seat 1: AAlexAA (-150) [9h 3s] Folded on PreFlop
+Seat 2: killahBee (-150) [4h 4d] Folded on PreFlop
+Seat 3: nathanwebber (-3000) [Qd Qc] Showdown with a Flush, Queen high +8654
+Seat 4: RD5000 (+0) [As 2s] Folded on PreFlop
+Seat 5: drewmarvell (+3375) [Kc Ac] Showdown with a Flush, Ace high +K865
+Seat 7: Hillions (+0) [8d Td] Folded on PreFlop
+Seat 8: DanAbu (+0) [9s Jh] Folded on PreFlop
+Seat 9: tlanj (-75) [6h Tc] Folded on PreFlop
+
+Hand #1852-34 - 2020-08-17 21:52:26
+Game: NL Hold'em (3000+0) - Blinds 75/150
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (4930)
+Seat 2: killahBee (1730)
+Seat 3: nathanwebber (1545)
+Seat 4: RD5000 (5920)
+Seat 5: drewmarvell (7545)
+Seat 7: Hillions (1695)
+Seat 8: DanAbu (615)
+Seat 9: tlanj (3020)
+tlanj has the dealer button
+AAlexAA posts small blind 75
+killahBee posts big blind 150
+** Hole Cards ** [8 players]
+nathanwebber folds
+RD5000 folds
+drewmarvell calls 150
+Hillions folds
+DanAbu folds
+tlanj calls 150
+AAlexAA folds
+killahBee checks
+** Flop ** [Jd 9s 4h]
+killahBee bets 300
+drewmarvell folds
+tlanj folds
+killahBee refunded 300
+killahBee wins Pot (525)
+** Summary **
+Board: [Jd 9s 4h], Players: 8, Pots: 1, Total: 525, Rake: 0, End: Flop
+Seat 1: AAlexAA (-75) [4c 2s] Folded on PreFlop
+Seat 2: killahBee (+375) [Js 8d] Won without Showdown
+Seat 3: nathanwebber (+0) [Ks 3c] Folded on PreFlop
+Seat 4: RD5000 (+0) [7c Ts] Folded on PreFlop
+Seat 5: drewmarvell (-150) [9d Td] Folded on Flop
+Seat 7: Hillions (+0) [Jc 2h] Folded on PreFlop
+Seat 8: DanAbu (+0) [5s 3s] Folded on PreFlop
+Seat 9: tlanj (-150) [7s Ad] Folded on Flop
+
+Hand #1853-35 - 2020-08-17 21:53:29
+Game: NL Hold'em (3000+0) - Blinds 75/150
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (4855)
+Seat 2: killahBee (2105)
+Seat 3: nathanwebber (1545)
+Seat 4: RD5000 (5920)
+Seat 5: drewmarvell (7395)
+Seat 7: Hillions (1695)
+Seat 8: DanAbu (615)
+Seat 9: tlanj (2870)
+AAlexAA has the dealer button
+killahBee posts small blind 75
+nathanwebber posts big blind 150
+** Hole Cards ** [8 players]
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA folds
+killahBee calls 75
+nathanwebber checks
+** Flop ** [9c 7d Ks]
+killahBee checks
+nathanwebber checks
+** Turn ** [3c]
+killahBee bets 150
+nathanwebber calls 150
+** River ** [Td]
+killahBee checks
+nathanwebber checks
+** Pot Show Down ** [9c 7d Ks 3c Td]
+killahBee shows [6s Jc] (High Card King +JT97)
+nathanwebber shows [Js Ts] (a Pair of Tens +KJ9)
+nathanwebber wins Pot (600) with a Pair
+** Summary **
+Board: [9c 7d Ks 3c Td], Players: 8, Pots: 1, Total: 600, Rake: 0, End: Showdown
+Seat 1: AAlexAA (+0) [Qd 4h] Folded on PreFlop
+Seat 2: killahBee (-300) [6s Jc] Showdown with High Card King +JT97
+Seat 3: nathanwebber (+300) [Js Ts] Showdown with a Pair of Tens +KJ9
+Seat 4: RD5000 (+0) [9d 2d] Folded on PreFlop
+Seat 5: drewmarvell (+0) [6h 7s] Folded on PreFlop
+Seat 7: Hillions (+0) [Jd Qs] Folded on PreFlop
+Seat 8: DanAbu (+0) [Kh 8h] Folded on PreFlop
+Seat 9: tlanj (+0) [7h 8s] Folded on PreFlop
+
+Hand #1854-36 - 2020-08-17 21:54:35
+Game: NL Hold'em (3000+0) - Blinds 75/150
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (4855)
+Seat 2: killahBee (1805)
+Seat 3: nathanwebber (1845)
+Seat 4: RD5000 (5920)
+Seat 5: drewmarvell (7395)
+Seat 7: Hillions (1695)
+Seat 8: DanAbu (615)
+Seat 9: tlanj (2870)
+killahBee has the dealer button
+nathanwebber posts small blind 75
+RD5000 posts big blind 150
+** Hole Cards ** [8 players]
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA calls 150
+killahBee calls 150
+nathanwebber raises to 1800
+RD5000 folds
+AAlexAA folds
+killahBee folds
+nathanwebber refunded 1650
+nathanwebber wins Pot (600)
+** Summary **
+Board: [], Players: 8, Pots: 1, Total: 600, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (-150) [7c Ad] Folded on PreFlop
+Seat 2: killahBee (-150) [8h 9h] Folded on PreFlop
+Seat 3: nathanwebber (+450) [5c 5d] Won without Showdown
+Seat 4: RD5000 (-150) [4s 7h] Folded on PreFlop
+Seat 5: drewmarvell (+0) [9c 3h] Folded on PreFlop
+Seat 7: Hillions (+0) [6c 9s] Folded on PreFlop
+Seat 8: DanAbu (+0) [8c Ts] Folded on PreFlop
+Seat 9: tlanj (+0) [4d 8s] Folded on PreFlop
+
+Hand #1855-37 - 2020-08-17 21:59:54
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (4705)
+Seat 2: killahBee (1655)
+Seat 3: nathanwebber (2295)
+Seat 4: RD5000 (5770)
+Seat 5: drewmarvell (7395)
+Seat 7: Hillions (1695)
+Seat 8: DanAbu (615)
+Seat 9: tlanj (2870)
+nathanwebber has the dealer button
+RD5000 posts small blind 100
+drewmarvell posts big blind 200
+** Hole Cards ** [8 players]
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA folds
+killahBee folds
+nathanwebber folds
+RD5000 raises to 400
+drewmarvell folds
+RD5000 refunded 200
+RD5000 wins Pot (400)
+** Summary **
+Board: [], Players: 8, Pots: 1, Total: 400, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [3h 8h] Folded on PreFlop
+Seat 2: killahBee (+0) [4s Js] Folded on PreFlop
+Seat 3: nathanwebber (+0) [8c 6d] Folded on PreFlop
+Seat 4: RD5000 (+200) [3d 2c] Won without Showdown
+Seat 5: drewmarvell (-200) [9d 2d] Folded on PreFlop
+Seat 7: Hillions (+0) [4d 7d] Folded on PreFlop
+Seat 8: DanAbu (+0) [2s Jc] Folded on PreFlop
+Seat 9: tlanj (+0) [6h 7h] Folded on PreFlop
+
+Hand #1856-38 - 2020-08-17 22:00:43
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (4705)
+Seat 2: killahBee (1655)
+Seat 3: nathanwebber (2295)
+Seat 4: RD5000 (5970)
+Seat 5: drewmarvell (7195)
+Seat 7: Hillions (1695)
+Seat 8: DanAbu (615)
+Seat 9: tlanj (2870)
+RD5000 has the dealer button
+drewmarvell posts small blind 100
+Hillions posts big blind 200
+** Hole Cards ** [8 players]
+DanAbu raises to 615 (All-in)
+tlanj folds
+AAlexAA folds
+killahBee folds
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+Hillions calls 415
+** Flop ** [4d Kh Tc]
+** Turn ** [Ah]
+** River ** [9d]
+** Pot Show Down ** [4d Kh Tc Ah 9d]
+Hillions shows [Qd Qh] (a Pair of Queens +AKT)
+DanAbu shows [7d As] (a Pair of Aces +KT9)
+DanAbu wins Pot (1330) with a Pair
+** Summary **
+Board: [4d Kh Tc Ah 9d], Players: 8, Pots: 1, Total: 1330, Rake: 0, End: Showdown
+Seat 1: AAlexAA (+0) [6d 3s] Folded on PreFlop
+Seat 2: killahBee (+0) [Kc Js] Folded on PreFlop
+Seat 3: nathanwebber (+0) [9s 6c] Folded on PreFlop
+Seat 4: RD5000 (+0) [8s Th] Folded on PreFlop
+Seat 5: drewmarvell (-100) [Td 9h] Folded on PreFlop
+Seat 7: Hillions (-615) [Qd Qh] Showdown with a Pair of Queens +AKT
+Seat 8: DanAbu (+715) [7d As] Showdown with a Pair of Aces +KT9
+Seat 9: tlanj (+0) [8h Qc] Folded on PreFlop
+
+Hand #1857-39 - 2020-08-17 22:01:43
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (4705)
+Seat 2: killahBee (1655)
+Seat 3: nathanwebber (2295)
+Seat 4: RD5000 (5970)
+Seat 5: drewmarvell (7095)
+Seat 7: Hillions (1080)
+Seat 8: DanAbu (1330)
+Seat 9: tlanj (2870)
+drewmarvell has the dealer button
+Hillions posts small blind 100
+DanAbu posts big blind 200
+** Hole Cards ** [8 players]
+tlanj folds
+AAlexAA calls 200
+killahBee calls 200
+nathanwebber calls 200
+RD5000 calls 200
+drewmarvell folds
+Hillions folds
+DanAbu checks
+** Flop ** [3h Ts Ac]
+DanAbu checks
+AAlexAA bets 420
+killahBee raises to 1455 (All-in)
+nathanwebber folds
+RD5000 folds
+DanAbu folds
+AAlexAA calls 1035
+** Turn ** [4h]
+** River ** [Qd]
+** Pot Show Down ** [3h Ts Ac 4h Qd]
+AAlexAA shows [Jh Ad] (a Pair of Aces +QJT)
+killahBee shows [8c As] (a Pair of Aces +QT8)
+AAlexAA wins Pot (4010) with a Pair
+killahBee finishes tournament in place #8
+** Summary **
+Board: [3h Ts Ac 4h Qd], Players: 8, Pots: 1, Total: 4010, Rake: 0, End: Showdown
+Seat 1: AAlexAA (+2355) [Jh Ad] Showdown with a Pair of Aces +QJT
+Seat 2: killahBee (-1655) [8c As] Showdown with a Pair of Aces +QT8
+Seat 3: nathanwebber (-200) [7s 7c] Folded on Flop
+Seat 4: RD5000 (-200) [Kc Qc] Folded on Flop
+Seat 5: drewmarvell (+0) [Kh 5c] Folded on PreFlop
+Seat 7: Hillions (-100) [Js 4c] Folded on PreFlop
+Seat 8: DanAbu (-200) [5d 3s] Folded on Flop
+Seat 9: tlanj (+0) [4d 8d] Folded on PreFlop
+
+Hand #1858-40 - 2020-08-17 22:03:10
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (7060)
+Seat 3: nathanwebber (2095)
+Seat 4: RD5000 (5770)
+Seat 5: drewmarvell (7095)
+Seat 7: Hillions (980)
+Seat 8: DanAbu (1130)
+Seat 9: tlanj (2870)
+Hillions has the dealer button
+DanAbu posts small blind 100
+tlanj posts big blind 200
+** Hole Cards ** [7 players]
+AAlexAA calls 200
+nathanwebber folds
+RD5000 calls 200
+drewmarvell folds
+Hillions calls 200
+DanAbu calls 100
+tlanj checks
+** Flop ** [4c Kd Js]
+DanAbu checks
+tlanj checks
+AAlexAA checks
+RD5000 bets 600
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA folds
+RD5000 refunded 600
+RD5000 wins Pot (1000)
+** Summary **
+Board: [4c Kd Js], Players: 7, Pots: 1, Total: 1000, Rake: 0, End: Flop
+Seat 1: AAlexAA (-200) [2c 2h] Folded on Flop
+Seat 3: nathanwebber (+0) [5d Jh] Folded on PreFlop
+Seat 4: RD5000 (+800) [Kc Td] Won without Showdown
+Seat 5: drewmarvell (+0) [4h 6d] Folded on PreFlop
+Seat 7: Hillions (-200) [As 3d] Folded on Flop
+Seat 8: DanAbu (-200) [Qd 8d] Folded on Flop
+Seat 9: tlanj (-200) [Ah 9d] Folded on Flop
+
+Hand #1859-41 - 2020-08-17 22:04:55
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (6860)
+Seat 3: nathanwebber (2095)
+Seat 4: RD5000 (6570)
+Seat 5: drewmarvell (7095)
+Seat 7: Hillions (780)
+Seat 8: DanAbu (930)
+Seat 9: tlanj (2670)
+DanAbu has the dealer button
+tlanj posts small blind 100
+AAlexAA posts big blind 200
+** Hole Cards ** [7 players]
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+Hillions raises to 780 (All-in)
+DanAbu raises to 930 (All-in)
+tlanj folds
+AAlexAA folds
+DanAbu refunded 150
+** Flop ** [2d Ac 7h]
+** Turn ** [Ks]
+** River ** [9h]
+** Pot Show Down ** [2d Ac 7h Ks 9h]
+Hillions shows [Ad As] (Three of a Kind, Aces +K9)
+DanAbu shows [Td Th] (a Pair of Tens +AK9)
+Hillions wins Pot (1860) with Three of a Kind
+** Summary **
+Board: [2d Ac 7h Ks 9h], Players: 7, Pots: 1, Total: 1860, Rake: 0, End: Showdown
+Seat 1: AAlexAA (-200) [Kc 6s] Folded on PreFlop
+Seat 3: nathanwebber (+0) [8d 4s] Folded on PreFlop
+Seat 4: RD5000 (+0) [6h 8h] Folded on PreFlop
+Seat 5: drewmarvell (+0) [3d Jh] Folded on PreFlop
+Seat 7: Hillions (+1080) [Ad As] Showdown with Three of a Kind, Aces +K9
+Seat 8: DanAbu (-780) [Td Th] Showdown with a Pair of Tens +AK9
+Seat 9: tlanj (-100) [7s 8s] Folded on PreFlop
+
+Hand #1860-42 - 2020-08-17 22:05:42
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (6660)
+Seat 3: nathanwebber (2095)
+Seat 4: RD5000 (6570)
+Seat 5: drewmarvell (7095)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (150)
+Seat 9: tlanj (2570)
+tlanj has the dealer button
+AAlexAA posts small blind 100
+nathanwebber posts big blind 200
+** Hole Cards ** [7 players]
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA calls 100
+nathanwebber checks
+** Flop ** [Ac Qd 6s]
+AAlexAA bets 600
+nathanwebber calls 600
+** Turn ** [4d]
+AAlexAA bets 600
+nathanwebber raises to 1295 (All-in)
+AAlexAA folds
+nathanwebber refunded 695
+nathanwebber wins Pot (2800)
+** Summary **
+Board: [Ac Qd 6s 4d], Players: 7, Pots: 1, Total: 2800, Rake: 0, End: Turn
+Seat 1: AAlexAA (-1400) [6c Kc] Folded on Turn
+Seat 3: nathanwebber (+1400) [2s Ad] Won without Showdown
+Seat 4: RD5000 (+0) [Ks 5h] Folded on PreFlop
+Seat 5: drewmarvell (+0) [6h 4c] Folded on PreFlop
+Seat 7: Hillions (+0) [3h 8c] Folded on PreFlop
+Seat 8: DanAbu (+0) [2d 9h] Folded on PreFlop
+Seat 9: tlanj (+0) [Js 2h] Folded on PreFlop
+
+Hand #1861-43 - 2020-08-17 22:06:36
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5260)
+Seat 3: nathanwebber (3495)
+Seat 4: RD5000 (6570)
+Seat 5: drewmarvell (7095)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (150)
+Seat 9: tlanj (2570)
+AAlexAA has the dealer button
+nathanwebber posts small blind 100
+RD5000 posts big blind 200
+** Hole Cards ** [7 players]
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA raises to 400
+nathanwebber folds
+RD5000 folds
+AAlexAA refunded 200
+AAlexAA wins Pot (500)
+** Summary **
+Board: [], Players: 7, Pots: 1, Total: 500, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+300) [Ac 4c] Won without Showdown
+Seat 3: nathanwebber (-100) [2c 3c] Folded on PreFlop
+Seat 4: RD5000 (-200) [Tc 9s] Folded on PreFlop
+Seat 5: drewmarvell (+0) [Kh Td] Folded on PreFlop
+Seat 7: Hillions (+0) [5h 8d] Folded on PreFlop
+Seat 8: DanAbu (+0) [8h Kc] Folded on PreFlop
+Seat 9: tlanj (+0) [Qh 5d] Folded on PreFlop
+
+Hand #1862-44 - 2020-08-17 22:07:23
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5560)
+Seat 3: nathanwebber (3395)
+Seat 4: RD5000 (6370)
+Seat 5: drewmarvell (7095)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (150)
+Seat 9: tlanj (2570)
+nathanwebber has the dealer button
+RD5000 posts small blind 100
+drewmarvell posts big blind 200
+** Hole Cards ** [7 players]
+Hillions folds
+DanAbu calls 150 (All-in)
+tlanj folds
+AAlexAA folds
+nathanwebber raises to 600
+RD5000 folds
+drewmarvell calls 400
+** Flop ** [8c Kd 2c]
+drewmarvell bets 400
+nathanwebber folds
+drewmarvell refunded 400
+** Turn ** [7c]
+** River ** [4d]
+drewmarvell wins Side Pot 1 (900)
+** Main Pot Show Down ** [8c Kd 2c 7c 4d]
+drewmarvell shows [Tc Js] (High Card King +JT87)
+DanAbu shows [7d Kh] (Two Pair, Kings and Sevens +8)
+DanAbu wins Main Pot (550) with Two Pair
+** Summary **
+Board: [8c Kd 2c 7c 4d], Players: 7, Pots: 2, Total: 1450, Rake: 0, End: Showdown
+Seat 1: AAlexAA (+0) [4s 5h] Folded on PreFlop
+Seat 3: nathanwebber (-600) [5c Ah] Folded on Flop
+Seat 4: RD5000 (-100) [9s 6c] Folded on PreFlop
+Seat 5: drewmarvell (+300) [Tc Js] Showdown with High Card King +JT87
+Seat 7: Hillions (+0) [2s 3s] Folded on PreFlop
+Seat 8: DanAbu (+400) [7d Kh] Showdown with Two Pair, Kings and Sevens +8
+Seat 9: tlanj (+0) [Jc 5d] Folded on PreFlop
+
+Hand #1863-45 - 2020-08-17 22:08:16
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5560)
+Seat 3: nathanwebber (2795)
+Seat 4: RD5000 (6270)
+Seat 5: drewmarvell (7395)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (550)
+Seat 9: tlanj (2570)
+RD5000 has the dealer button
+drewmarvell posts small blind 100
+Hillions posts big blind 200
+** Hole Cards ** [7 players]
+DanAbu folds
+tlanj calls 200
+AAlexAA folds
+nathanwebber folds
+RD5000 calls 200
+drewmarvell calls 100
+Hillions checks
+** Flop ** [7c 3c 6s]
+drewmarvell checks
+Hillions bets 400
+tlanj folds
+RD5000 folds
+drewmarvell folds
+Hillions refunded 400
+Hillions wins Pot (800)
+Hillions shows [7h Qd]
+** Summary **
+Board: [7c 3c 6s], Players: 7, Pots: 1, Total: 800, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [9s 7s] Folded on PreFlop
+Seat 3: nathanwebber (+0) [4s Kh] Folded on PreFlop
+Seat 4: RD5000 (-200) [Jd Qs] Folded on Flop
+Seat 5: drewmarvell (-200) [2c Ah] Folded on Flop
+Seat 7: Hillions (+600) [7h Qd] Won without Showdown
+Seat 8: DanAbu (+0) [3h 6c] Folded on PreFlop
+Seat 9: tlanj (-200) [5c 5d] Folded on Flop
+
+Hand #1864-46 - 2020-08-17 22:09:38
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5560)
+Seat 3: nathanwebber (2795)
+Seat 4: RD5000 (6070)
+Seat 5: drewmarvell (7195)
+Seat 7: Hillions (2460)
+Seat 8: DanAbu (550)
+Seat 9: tlanj (2370)
+drewmarvell has the dealer button
+Hillions posts small blind 100
+DanAbu posts big blind 200
+** Hole Cards ** [7 players]
+tlanj folds
+AAlexAA calls 200
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+Hillions calls 100
+DanAbu checks
+** Flop ** [3h 2c As]
+Hillions checks
+DanAbu bets 350 (All-in)
+AAlexAA calls 350
+Hillions folds
+** Turn ** [Qh]
+** River ** [6h]
+** Pot Show Down ** [3h 2c As Qh 6h]
+AAlexAA shows [Ad Js] (a Pair of Aces +QJ6)
+DanAbu shows [2d Qc] (Two Pair, Queens and Deuces +A)
+DanAbu wins Pot (1300) with Two Pair
+** Summary **
+Board: [3h 2c As Qh 6h], Players: 7, Pots: 1, Total: 1300, Rake: 0, End: Showdown
+Seat 1: AAlexAA (-550) [Ad Js] Showdown with a Pair of Aces +QJ6
+Seat 3: nathanwebber (+0) [9c 6s] Folded on PreFlop
+Seat 4: RD5000 (+0) [9s Jh] Folded on PreFlop
+Seat 5: drewmarvell (+0) [Kc 2s] Folded on PreFlop
+Seat 7: Hillions (-200) [Kd Td] Folded on Flop
+Seat 8: DanAbu (+750) [2d Qc] Showdown with Two Pair, Queens and Deuces +A
+Seat 9: tlanj (+0) [4d 5d] Folded on PreFlop
+
+Hand #1865-47 - 2020-08-17 22:10:17
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5010)
+Seat 3: nathanwebber (2795)
+Seat 4: RD5000 (6070)
+Seat 5: drewmarvell (7195)
+Seat 7: Hillions (2260)
+Seat 8: DanAbu (1300)
+Seat 9: tlanj (2370)
+Hillions has the dealer button
+DanAbu posts small blind 100
+tlanj posts big blind 200
+** Hole Cards ** [7 players]
+AAlexAA calls 200
+nathanwebber raises to 800
+RD5000 folds
+drewmarvell calls 800
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA folds
+** Flop ** [7d Ts 2c]
+nathanwebber bets 1995 (All-in)
+drewmarvell folds
+nathanwebber refunded 1995
+nathanwebber wins Pot (2100)
+** Summary **
+Board: [7d Ts 2c], Players: 7, Pots: 1, Total: 2100, Rake: 0, End: Flop
+Seat 1: AAlexAA (-200) [9d Td] Folded on PreFlop
+Seat 3: nathanwebber (+1300) [Ac Kd] Won without Showdown
+Seat 4: RD5000 (+0) [3s 9s] Folded on PreFlop
+Seat 5: drewmarvell (-800) [Js Ah] Folded on Flop
+Seat 7: Hillions (+0) [4h As] Folded on PreFlop
+Seat 8: DanAbu (-100) [Th 8d] Folded on PreFlop
+Seat 9: tlanj (-200) [8c 4s] Folded on PreFlop
+
+Hand #1866-48 - 2020-08-17 22:11:07
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (4810)
+Seat 3: nathanwebber (4095)
+Seat 4: RD5000 (6070)
+Seat 5: drewmarvell (6395)
+Seat 7: Hillions (2260)
+Seat 8: DanAbu (1200)
+Seat 9: tlanj (2170)
+DanAbu has the dealer button
+tlanj posts small blind 100
+AAlexAA posts big blind 200
+** Hole Cards ** [7 players]
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu raises to 1200 (All-in)
+tlanj folds
+AAlexAA folds
+DanAbu refunded 1000
+DanAbu wins Pot (500)
+** Summary **
+Board: [], Players: 7, Pots: 1, Total: 500, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (-200) [5c 9h] Folded on PreFlop
+Seat 3: nathanwebber (+0) [Kc 8d] Folded on PreFlop
+Seat 4: RD5000 (+0) [Ah 9d] Folded on PreFlop
+Seat 5: drewmarvell (+0) [5s Jd] Folded on PreFlop
+Seat 7: Hillions (+0) [8h 4s] Folded on PreFlop
+Seat 8: DanAbu (+300) [Jc Ks] Won without Showdown
+Seat 9: tlanj (-100) [2h Js] Folded on PreFlop
+
+Hand #1867-49 - 2020-08-17 22:11:44
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (4610)
+Seat 3: nathanwebber (4095)
+Seat 4: RD5000 (6070)
+Seat 5: drewmarvell (6395)
+Seat 7: Hillions (2260)
+Seat 8: DanAbu (1500)
+Seat 9: tlanj (2070)
+tlanj has the dealer button
+AAlexAA posts small blind 100
+nathanwebber posts big blind 200
+** Hole Cards ** [7 players]
+RD5000 calls 200
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj calls 200
+AAlexAA raises to 400
+nathanwebber folds
+RD5000 raises to 1000
+tlanj folds
+AAlexAA calls 600
+** Flop ** [3d 8c 7c]
+AAlexAA bets 600
+RD5000 raises to 1500
+AAlexAA folds
+RD5000 refunded 900
+RD5000 wins Pot (3600)
+RD5000 shows [Ac Ah]
+** Summary **
+Board: [3d 8c 7c], Players: 7, Pots: 1, Total: 3600, Rake: 0, End: Flop
+Seat 1: AAlexAA (-1600) [Qs As] Folded on Flop
+Seat 3: nathanwebber (-200) [3h 6s] Folded on PreFlop
+Seat 4: RD5000 (+2000) [Ac Ah] Won without Showdown
+Seat 5: drewmarvell (+0) [9c Ks] Folded on PreFlop
+Seat 7: Hillions (+0) [Kd 9h] Folded on PreFlop
+Seat 8: DanAbu (+0) [6h 8h] Folded on PreFlop
+Seat 9: tlanj (-200) [Qh Td] Folded on PreFlop
+
+Hand #1868-50 - 2020-08-17 22:13:12
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3010)
+Seat 3: nathanwebber (3895)
+Seat 4: RD5000 (8070)
+Seat 5: drewmarvell (6395)
+Seat 7: Hillions (2260)
+Seat 8: DanAbu (1500)
+Seat 9: tlanj (1870)
+AAlexAA has the dealer button
+nathanwebber posts small blind 100
+RD5000 posts big blind 200
+** Hole Cards ** [7 players]
+drewmarvell raises to 400
+Hillions calls 400
+DanAbu folds
+tlanj folds
+AAlexAA folds
+nathanwebber folds
+RD5000 folds
+** Flop ** [8d 6c 4c]
+drewmarvell bets 400
+Hillions folds
+drewmarvell refunded 400
+drewmarvell wins Pot (1100)
+** Summary **
+Board: [8d 6c 4c], Players: 7, Pots: 1, Total: 1100, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [2c Ts] Folded on PreFlop
+Seat 3: nathanwebber (-100) [9c Qh] Folded on PreFlop
+Seat 4: RD5000 (-200) [Ks 3c] Folded on PreFlop
+Seat 5: drewmarvell (+700) [Ad 9h] Won without Showdown
+Seat 7: Hillions (-400) [Kh Jc] Folded on Flop
+Seat 8: DanAbu (+0) [4d Jh] Folded on PreFlop
+Seat 9: tlanj (+0) [Ah 7s] Folded on PreFlop
+
+Hand #1869-51 - 2020-08-17 22:14:10
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3010)
+Seat 3: nathanwebber (3795)
+Seat 4: RD5000 (7870)
+Seat 5: drewmarvell (7095)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (1500)
+Seat 9: tlanj (1870)
+nathanwebber has the dealer button
+RD5000 posts small blind 100
+drewmarvell posts big blind 200
+** Hole Cards ** [7 players]
+Hillions calls 200
+DanAbu raises to 1500 (All-in)
+tlanj folds
+AAlexAA folds
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu refunded 1300
+DanAbu wins Pot (700)
+** Summary **
+Board: [], Players: 7, Pots: 1, Total: 700, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [Qs 6s] Folded on PreFlop
+Seat 3: nathanwebber (+0) [9h 3c] Folded on PreFlop
+Seat 4: RD5000 (-100) [Tc Jd] Folded on PreFlop
+Seat 5: drewmarvell (-200) [Ah 3h] Folded on PreFlop
+Seat 7: Hillions (-200) [4s As] Folded on PreFlop
+Seat 8: DanAbu (+500) [Qc Qh] Won without Showdown
+Seat 9: tlanj (+0) [4c 6c] Folded on PreFlop
+
+Hand #1870-52 - 2020-08-17 22:14:49
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3010)
+Seat 3: nathanwebber (3795)
+Seat 4: RD5000 (7770)
+Seat 5: drewmarvell (6895)
+Seat 7: Hillions (1660)
+Seat 8: DanAbu (2000)
+Seat 9: tlanj (1870)
+RD5000 has the dealer button
+drewmarvell posts small blind 100
+Hillions posts big blind 200
+** Hole Cards ** [7 players]
+DanAbu folds
+tlanj calls 200
+AAlexAA folds
+nathanwebber folds
+RD5000 folds
+drewmarvell calls 100
+Hillions checks
+** Flop ** [Qs Qh 4s]
+drewmarvell checks
+Hillions bets 800
+tlanj folds
+drewmarvell folds
+Hillions refunded 800
+Hillions wins Pot (600)
+** Summary **
+Board: [Qs Qh 4s], Players: 7, Pots: 1, Total: 600, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [Kc 4h] Folded on PreFlop
+Seat 3: nathanwebber (+0) [4d Ks] Folded on PreFlop
+Seat 4: RD5000 (+0) [7d 5c] Folded on PreFlop
+Seat 5: drewmarvell (-200) [7s 8h] Folded on Flop
+Seat 7: Hillions (+400) [2c Kd] Won without Showdown
+Seat 8: DanAbu (+0) [2h Ad] Folded on PreFlop
+Seat 9: tlanj (-200) [3d Ah] Folded on Flop
+
+Hand #1871-53 - 2020-08-17 22:15:41
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3010)
+Seat 3: nathanwebber (3795)
+Seat 4: RD5000 (7770)
+Seat 5: drewmarvell (6695)
+Seat 7: Hillions (2060)
+Seat 8: DanAbu (2000)
+Seat 9: tlanj (1670)
+drewmarvell has the dealer button
+Hillions posts small blind 100
+DanAbu posts big blind 200
+** Hole Cards ** [7 players]
+tlanj folds
+AAlexAA calls 200
+nathanwebber folds
+RD5000 calls 200
+drewmarvell folds
+Hillions calls 100
+DanAbu checks
+** Flop ** [9d 9c 2s]
+Hillions checks
+DanAbu checks
+AAlexAA checks
+RD5000 bets 400
+Hillions folds
+DanAbu folds
+AAlexAA folds
+RD5000 refunded 400
+RD5000 wins Pot (800)
+** Summary **
+Board: [9d 9c 2s], Players: 7, Pots: 1, Total: 800, Rake: 0, End: Flop
+Seat 1: AAlexAA (-200) [Td Kc] Folded on Flop
+Seat 3: nathanwebber (+0) [7c Kd] Folded on PreFlop
+Seat 4: RD5000 (+600) [Ad Ts] Won without Showdown
+Seat 5: drewmarvell (+0) [4s Qh] Folded on PreFlop
+Seat 7: Hillions (-200) [4h 6s] Folded on Flop
+Seat 8: DanAbu (-200) [Qs 4d] Folded on Flop
+Seat 9: tlanj (+0) [Qd Th] Folded on PreFlop
+
+Hand #1872-54 - 2020-08-17 22:17:11
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2810)
+Seat 3: nathanwebber (3795)
+Seat 4: RD5000 (8370)
+Seat 5: drewmarvell (6695)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (1800)
+Seat 9: tlanj (1670)
+Hillions has the dealer button
+DanAbu posts small blind 100
+tlanj posts big blind 200
+** Hole Cards ** [7 players]
+AAlexAA folds
+nathanwebber folds
+RD5000 folds
+drewmarvell raises to 400
+Hillions folds
+DanAbu folds
+tlanj calls 200
+** Flop ** [9c Kc 4d]
+tlanj checks
+drewmarvell bets 600
+tlanj folds
+drewmarvell refunded 600
+drewmarvell wins Pot (900)
+** Summary **
+Board: [9c Kc 4d], Players: 7, Pots: 1, Total: 900, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [Ts 7s] Folded on PreFlop
+Seat 3: nathanwebber (+0) [7d Tc] Folded on PreFlop
+Seat 4: RD5000 (+0) [5h 6s] Folded on PreFlop
+Seat 5: drewmarvell (+500) [6h Ad] Won without Showdown
+Seat 7: Hillions (+0) [Qc 3h] Folded on PreFlop
+Seat 8: DanAbu (-100) [6c 5c] Folded on PreFlop
+Seat 9: tlanj (-400) [2h Qh] Folded on Flop
+
+Hand #1873-55 - 2020-08-17 22:18:30
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2810)
+Seat 3: nathanwebber (3795)
+Seat 4: RD5000 (8370)
+Seat 5: drewmarvell (7195)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (1700)
+Seat 9: tlanj (1270)
+DanAbu has the dealer button
+tlanj posts small blind 100
+AAlexAA posts big blind 200
+** Hole Cards ** [7 players]
+nathanwebber raises to 800
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA folds
+nathanwebber refunded 600
+nathanwebber wins Pot (500)
+** Summary **
+Board: [], Players: 7, Pots: 1, Total: 500, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (-200) [As 3d] Folded on PreFlop
+Seat 3: nathanwebber (+300) [Kd Qd] Won without Showdown
+Seat 4: RD5000 (+0) [Jd 3c] Folded on PreFlop
+Seat 5: drewmarvell (+0) [2s Ts] Folded on PreFlop
+Seat 7: Hillions (+0) [6d Qh] Folded on PreFlop
+Seat 8: DanAbu (+0) [9h Jc] Folded on PreFlop
+Seat 9: tlanj (-100) [9s 6h] Folded on PreFlop
+
+Hand #1874-56 - 2020-08-17 22:18:50
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2610)
+Seat 3: nathanwebber (4095)
+Seat 4: RD5000 (8370)
+Seat 5: drewmarvell (7195)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (1700)
+Seat 9: tlanj (1170)
+tlanj has the dealer button
+AAlexAA posts small blind 100
+nathanwebber posts big blind 200
+** Hole Cards ** [7 players]
+RD5000 calls 200
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA folds
+nathanwebber checks
+** Flop ** [Jd Qh 7d]
+nathanwebber bets 400
+RD5000 folds
+nathanwebber refunded 400
+nathanwebber wins Pot (500)
+** Summary **
+Board: [Jd Qh 7d], Players: 7, Pots: 1, Total: 500, Rake: 0, End: Flop
+Seat 1: AAlexAA (-100) [8h 9c] Folded on PreFlop
+Seat 3: nathanwebber (+300) [7c 9d] Won without Showdown
+Seat 4: RD5000 (-200) [5s 5h] Folded on Flop
+Seat 5: drewmarvell (+0) [8s Td] Folded on PreFlop
+Seat 7: Hillions (+0) [6d 3h] Folded on PreFlop
+Seat 8: DanAbu (+0) [6c Qs] Folded on PreFlop
+Seat 9: tlanj (+0) [2d Jh] Folded on PreFlop
+
+Hand #1875-57 - 2020-08-17 22:19:39
+Game: NL Hold'em (3000+0) - Blinds 100/200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2510)
+Seat 3: nathanwebber (4395)
+Seat 4: RD5000 (8170)
+Seat 5: drewmarvell (7195)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (1700)
+Seat 9: tlanj (1170)
+AAlexAA has the dealer button
+nathanwebber posts small blind 100
+RD5000 posts big blind 200
+** Hole Cards ** [7 players]
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA folds
+nathanwebber calls 100
+RD5000 checks
+** Flop ** [9d 4c 3s]
+nathanwebber checks
+RD5000 bets 400
+nathanwebber folds
+RD5000 refunded 400
+RD5000 wins Pot (400)
+** Summary **
+Board: [9d 4c 3s], Players: 7, Pots: 1, Total: 400, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [8d Kc] Folded on PreFlop
+Seat 3: nathanwebber (-200) [Tc 7h] Folded on Flop
+Seat 4: RD5000 (+200) [3c 5h] Won without Showdown
+Seat 5: drewmarvell (+0) [2s As] Folded on PreFlop
+Seat 7: Hillions (+0) [8h Td] Folded on PreFlop
+Seat 8: DanAbu (+0) [7d 8s] Folded on PreFlop
+Seat 9: tlanj (+0) [5c Qh] Folded on PreFlop
+
+Hand #1876-58 - 2020-08-17 22:20:28
+Game: NL Hold'em (3000+0) - Blinds 200/400
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2510)
+Seat 3: nathanwebber (4195)
+Seat 4: RD5000 (8370)
+Seat 5: drewmarvell (7195)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (1700)
+Seat 9: tlanj (1170)
+nathanwebber has the dealer button
+RD5000 posts small blind 200
+drewmarvell posts big blind 400
+** Hole Cards ** [7 players]
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA folds
+nathanwebber folds
+RD5000 calls 200
+drewmarvell checks
+** Flop ** [Ts 7c 8s]
+RD5000 checks
+drewmarvell bets 800
+RD5000 folds
+drewmarvell refunded 800
+drewmarvell wins Pot (800)
+** Summary **
+Board: [Ts 7c 8s], Players: 7, Pots: 1, Total: 800, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [5h Jh] Folded on PreFlop
+Seat 3: nathanwebber (+0) [3h 5s] Folded on PreFlop
+Seat 4: RD5000 (-400) [Ac 5d] Folded on Flop
+Seat 5: drewmarvell (+400) [8d Qh] Won without Showdown
+Seat 7: Hillions (+0) [6d 9h] Folded on PreFlop
+Seat 8: DanAbu (+0) [4s 2s] Folded on PreFlop
+Seat 9: tlanj (+0) [Js 8c] Folded on PreFlop
+
+Hand #1877-59 - 2020-08-17 22:21:15
+Game: NL Hold'em (3000+0) - Blinds 200/400
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2510)
+Seat 3: nathanwebber (4195)
+Seat 4: RD5000 (7970)
+Seat 5: drewmarvell (7595)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (1700)
+Seat 9: tlanj (1170)
+RD5000 has the dealer button
+drewmarvell posts small blind 200
+Hillions posts big blind 400
+** Hole Cards ** [7 players]
+DanAbu folds
+tlanj folds
+AAlexAA folds
+nathanwebber folds
+RD5000 folds
+drewmarvell calls 200
+Hillions raises to 1860 (All-in)
+drewmarvell folds
+Hillions refunded 1460
+Hillions wins Pot (800)
+** Summary **
+Board: [], Players: 7, Pots: 1, Total: 800, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [Qs 5s] Folded on PreFlop
+Seat 3: nathanwebber (+0) [5d 9d] Folded on PreFlop
+Seat 4: RD5000 (+0) [7h Kc] Folded on PreFlop
+Seat 5: drewmarvell (-400) [Td 8h] Folded on PreFlop
+Seat 7: Hillions (+400) [5h Ac] Won without Showdown
+Seat 8: DanAbu (+0) [Qc 3d] Folded on PreFlop
+Seat 9: tlanj (+0) [Th Jd] Folded on PreFlop
+
+Hand #1878-60 - 2020-08-17 22:22:11
+Game: NL Hold'em (3000+0) - Blinds 200/400
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2510)
+Seat 3: nathanwebber (4195)
+Seat 4: RD5000 (7970)
+Seat 5: drewmarvell (7195)
+Seat 7: Hillions (2260)
+Seat 8: DanAbu (1700)
+Seat 9: tlanj (1170)
+drewmarvell has the dealer button
+Hillions posts small blind 200
+DanAbu posts big blind 400
+** Hole Cards ** [7 players]
+tlanj folds
+AAlexAA folds
+nathanwebber folds
+RD5000 folds
+drewmarvell calls 400
+Hillions calls 200
+DanAbu checks
+** Flop ** [5h 2s Th]
+Hillions checks
+DanAbu bets 1300 (All-in)
+drewmarvell folds
+Hillions folds
+DanAbu refunded 1300
+DanAbu wins Pot (1200)
+** Summary **
+Board: [5h 2s Th], Players: 7, Pots: 1, Total: 1200, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [4h Js] Folded on PreFlop
+Seat 3: nathanwebber (+0) [Kd 2d] Folded on PreFlop
+Seat 4: RD5000 (+0) [Ts 6h] Folded on PreFlop
+Seat 5: drewmarvell (-400) [Qd Kh] Folded on Flop
+Seat 7: Hillions (-400) [Jh 9c] Folded on Flop
+Seat 8: DanAbu (+800) [2h 3d] Won without Showdown
+Seat 9: tlanj (+0) [7h Tc] Folded on PreFlop
+
+Hand #1879-61 - 2020-08-17 22:23:19
+Game: NL Hold'em (3000+0) - Blinds 200/400
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2510)
+Seat 3: nathanwebber (4195)
+Seat 4: RD5000 (7970)
+Seat 5: drewmarvell (6795)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (2500)
+Seat 9: tlanj (1170)
+Hillions has the dealer button
+DanAbu posts small blind 200
+tlanj posts big blind 400
+** Hole Cards ** [7 players]
+AAlexAA folds
+nathanwebber calls 400
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu calls 200
+tlanj checks
+** Flop ** [5s Th 7s]
+DanAbu bets 800
+tlanj folds
+nathanwebber folds
+DanAbu refunded 800
+DanAbu wins Pot (1200)
+** Summary **
+Board: [5s Th 7s], Players: 7, Pots: 1, Total: 1200, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [Ac 2h] Folded on PreFlop
+Seat 3: nathanwebber (-400) [3c 3h] Folded on Flop
+Seat 4: RD5000 (+0) [6d 9s] Folded on PreFlop
+Seat 5: drewmarvell (+0) [4c Js] Folded on PreFlop
+Seat 7: Hillions (+0) [5h 2s] Folded on PreFlop
+Seat 8: DanAbu (+800) [Ts 9d] Won without Showdown
+Seat 9: tlanj (-400) [4h 3d] Folded on Flop
+
+Hand #1880-62 - 2020-08-17 22:24:28
+Game: NL Hold'em (3000+0) - Blinds 200/400
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2510)
+Seat 3: nathanwebber (3795)
+Seat 4: RD5000 (7970)
+Seat 5: drewmarvell (6795)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (3300)
+Seat 9: tlanj (770)
+DanAbu has the dealer button
+tlanj posts small blind 200
+AAlexAA posts big blind 400
+** Hole Cards ** [7 players]
+nathanwebber raises to 1200
+RD5000 folds
+drewmarvell calls 1200
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA folds
+** Flop ** [6s 5d 9s]
+nathanwebber bets 1200
+drewmarvell folds
+nathanwebber refunded 1200
+nathanwebber wins Pot (3000)
+** Summary **
+Board: [6s 5d 9s], Players: 7, Pots: 1, Total: 3000, Rake: 0, End: Flop
+Seat 1: AAlexAA (-400) [8c Tc] Folded on PreFlop
+Seat 3: nathanwebber (+1800) [Ac Ah] Won without Showdown
+Seat 4: RD5000 (+0) [5s Qc] Folded on PreFlop
+Seat 5: drewmarvell (-1200) [Qd Kd] Folded on Flop
+Seat 7: Hillions (+0) [3h Jd] Folded on PreFlop
+Seat 8: DanAbu (+0) [2s Kc] Folded on PreFlop
+Seat 9: tlanj (-200) [9d 4d] Folded on PreFlop
+
+Hand #1881-63 - 2020-08-17 22:25:28
+Game: NL Hold'em (3000+0) - Blinds 200/400
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2110)
+Seat 3: nathanwebber (5595)
+Seat 4: RD5000 (7970)
+Seat 5: drewmarvell (5595)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (3300)
+Seat 9: tlanj (570)
+tlanj has the dealer button
+AAlexAA posts small blind 200
+nathanwebber posts big blind 400
+** Hole Cards ** [7 players]
+RD5000 folds
+drewmarvell raises to 800
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA folds
+nathanwebber folds
+drewmarvell refunded 400
+drewmarvell wins Pot (1000)
+** Summary **
+Board: [], Players: 7, Pots: 1, Total: 1000, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (-200) [4s Th] Folded on PreFlop
+Seat 3: nathanwebber (-400) [Kh 9s] Folded on PreFlop
+Seat 4: RD5000 (+0) [Ts 8d] Folded on PreFlop
+Seat 5: drewmarvell (+600) [Ah Js] Won without Showdown
+Seat 7: Hillions (+0) [4d 9d] Folded on PreFlop
+Seat 8: DanAbu (+0) [3c 2d] Folded on PreFlop
+Seat 9: tlanj (+0) [2s 5c] Folded on PreFlop
+
+Hand #1882-64 - 2020-08-17 22:25:55
+Game: NL Hold'em (3000+0) - Blinds 200/400
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (1910)
+Seat 3: nathanwebber (5195)
+Seat 4: RD5000 (7970)
+Seat 5: drewmarvell (6195)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (3300)
+Seat 9: tlanj (570)
+AAlexAA has the dealer button
+nathanwebber posts small blind 200
+RD5000 posts big blind 400
+** Hole Cards ** [7 players]
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA raises to 1910 (All-in)
+nathanwebber folds
+RD5000 folds
+AAlexAA refunded 1510
+AAlexAA wins Pot (1000)
+** Summary **
+Board: [], Players: 7, Pots: 1, Total: 1000, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+600) [Qs Kd] Won without Showdown
+Seat 3: nathanwebber (-200) [Jh 7h] Folded on PreFlop
+Seat 4: RD5000 (-400) [2c 2d] Folded on PreFlop
+Seat 5: drewmarvell (+0) [9d Js] Folded on PreFlop
+Seat 7: Hillions (+0) [5h Qh] Folded on PreFlop
+Seat 8: DanAbu (+0) [Qd 8h] Folded on PreFlop
+Seat 9: tlanj (+0) [6d 7s] Folded on PreFlop
+
+Hand #1883-65 - 2020-08-17 22:26:37
+Game: NL Hold'em (3000+0) - Blinds 200/400
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2510)
+Seat 3: nathanwebber (4995)
+Seat 4: RD5000 (7570)
+Seat 5: drewmarvell (6195)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (3300)
+Seat 9: tlanj (570)
+nathanwebber has the dealer button
+RD5000 posts small blind 200
+drewmarvell posts big blind 400
+** Hole Cards ** [7 players]
+Hillions folds
+DanAbu folds
+tlanj raises to 570 (All-in)
+AAlexAA folds
+nathanwebber folds
+RD5000 calls 370
+drewmarvell calls 170
+** Flop ** [9h 9d Th]
+RD5000 bets 400
+drewmarvell raises to 800
+RD5000 folds
+drewmarvell refunded 400
+** Turn ** [Ts]
+** River ** [Qc]
+drewmarvell wins Side Pot 1 (800)
+** Main Pot Show Down ** [9h 9d Th Ts Qc]
+drewmarvell shows [4d 8c] (Two Pair, Tens and Nines +Q)
+tlanj shows [As Kh] (Two Pair, Tens and Nines +A)
+tlanj wins Main Pot (1710) with Two Pair
+** Summary **
+Board: [9h 9d Th Ts Qc], Players: 7, Pots: 2, Total: 2510, Rake: 0, End: Showdown
+Seat 1: AAlexAA (+0) [Jh 6c] Folded on PreFlop
+Seat 3: nathanwebber (+0) [9s Kc] Folded on PreFlop
+Seat 4: RD5000 (-970) [Ac 8s] Folded on Flop
+Seat 5: drewmarvell (-170) [4d 8c] Showdown with Two Pair, Tens and Nines +Q
+Seat 7: Hillions (+0) [Tc 3s] Folded on PreFlop
+Seat 8: DanAbu (+0) [Js 5s] Folded on PreFlop
+Seat 9: tlanj (+1140) [As Kh] Showdown with Two Pair, Tens and Nines +A
+
+Hand #1884-66 - 2020-08-17 22:27:46
+Game: NL Hold'em (3000+0) - Blinds 200/400
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2510)
+Seat 3: nathanwebber (4995)
+Seat 4: RD5000 (6600)
+Seat 5: drewmarvell (6025)
+Seat 7: Hillions (1860)
+Seat 8: DanAbu (3300)
+Seat 9: tlanj (1710)
+RD5000 has the dealer button
+drewmarvell posts small blind 200
+Hillions posts big blind 400
+** Hole Cards ** [7 players]
+DanAbu folds
+tlanj folds
+AAlexAA folds
+nathanwebber raises to 1200
+RD5000 folds
+drewmarvell folds
+Hillions folds
+nathanwebber refunded 800
+nathanwebber wins Pot (1000)
+nathanwebber shows [6h 6s]
+** Summary **
+Board: [], Players: 7, Pots: 1, Total: 1000, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [6d Jh] Folded on PreFlop
+Seat 3: nathanwebber (+600) [6h 6s] Won without Showdown
+Seat 4: RD5000 (+0) [3c As] Folded on PreFlop
+Seat 5: drewmarvell (-200) [8h Ts] Folded on PreFlop
+Seat 7: Hillions (-400) [4h 5c] Folded on PreFlop
+Seat 8: DanAbu (+0) [6c Th] Folded on PreFlop
+Seat 9: tlanj (+0) [Td 3s] Folded on PreFlop
+
+Hand #1885-67 - 2020-08-17 22:28:16
+Game: NL Hold'em (3000+0) - Blinds 200/400
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2510)
+Seat 3: nathanwebber (5595)
+Seat 4: RD5000 (6600)
+Seat 5: drewmarvell (5825)
+Seat 7: Hillions (1460)
+Seat 8: DanAbu (3300)
+Seat 9: tlanj (1710)
+drewmarvell has the dealer button
+Hillions posts small blind 200
+DanAbu posts big blind 400
+** Hole Cards ** [7 players]
+tlanj folds
+AAlexAA folds
+nathanwebber folds
+RD5000 raises to 800
+drewmarvell folds
+Hillions folds
+DanAbu folds
+RD5000 refunded 400
+RD5000 wins Pot (1000)
+** Summary **
+Board: [], Players: 7, Pots: 1, Total: 1000, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [6h 5h] Folded on PreFlop
+Seat 3: nathanwebber (+0) [7d 6s] Folded on PreFlop
+Seat 4: RD5000 (+600) [7c Ac] Won without Showdown
+Seat 5: drewmarvell (+0) [Ad 7h] Folded on PreFlop
+Seat 7: Hillions (-200) [Qh 2h] Folded on PreFlop
+Seat 8: DanAbu (-400) [Jd Tc] Folded on PreFlop
+Seat 9: tlanj (+0) [2c 3h] Folded on PreFlop
+
+Hand #1886-68 - 2020-08-17 22:28:57
+Game: NL Hold'em (3000+0) - Blinds 200/400
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2510)
+Seat 3: nathanwebber (5595)
+Seat 4: RD5000 (7200)
+Seat 5: drewmarvell (5825)
+Seat 7: Hillions (1260)
+Seat 8: DanAbu (2900)
+Seat 9: tlanj (1710)
+Hillions has the dealer button
+DanAbu posts small blind 200
+tlanj posts big blind 400
+** Hole Cards ** [7 players]
+AAlexAA raises to 1200
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+Hillions folds
+DanAbu folds
+tlanj folds
+AAlexAA refunded 800
+AAlexAA wins Pot (1000)
+** Summary **
+Board: [], Players: 7, Pots: 1, Total: 1000, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+600) [Qd Qs] Won without Showdown
+Seat 3: nathanwebber (+0) [Jh 9d] Folded on PreFlop
+Seat 4: RD5000 (+0) [Ad Th] Folded on PreFlop
+Seat 5: drewmarvell (+0) [9h Kc] Folded on PreFlop
+Seat 7: Hillions (+0) [3c 3h] Folded on PreFlop
+Seat 8: DanAbu (-200) [8h Ah] Folded on PreFlop
+Seat 9: tlanj (-400) [7h Ac] Folded on PreFlop
+
+Hand #1887-69 - 2020-08-17 22:30:04
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3110)
+Seat 3: nathanwebber (5595)
+Seat 4: RD5000 (7200)
+Seat 5: drewmarvell (5825)
+Seat 7: Hillions (1260)
+Seat 8: DanAbu (2700)
+Seat 9: tlanj (1310)
+DanAbu has the dealer button
+tlanj posts small blind 300
+AAlexAA posts big blind 600
+** Hole Cards ** [7 players]
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+Hillions raises to 1260 (All-in)
+DanAbu folds
+tlanj folds
+AAlexAA folds
+Hillions refunded 660
+Hillions wins Pot (1500)
+** Summary **
+Board: [], Players: 7, Pots: 1, Total: 1500, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (-600) [6s 9h] Folded on PreFlop
+Seat 3: nathanwebber (+0) [7d 6d] Folded on PreFlop
+Seat 4: RD5000 (+0) [Qd Js] Folded on PreFlop
+Seat 5: drewmarvell (+0) [2h 4c] Folded on PreFlop
+Seat 7: Hillions (+900) [4d As] Won without Showdown
+Seat 8: DanAbu (+0) [2c 9d] Folded on PreFlop
+Seat 9: tlanj (-300) [2d 5d] Folded on PreFlop
+
+Hand #1888-70 - 2020-08-17 22:30:50
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2510)
+Seat 3: nathanwebber (5595)
+Seat 4: RD5000 (7200)
+Seat 5: drewmarvell (5825)
+Seat 7: Hillions (2160)
+Seat 8: DanAbu (2700)
+Seat 9: tlanj (1010)
+tlanj has the dealer button
+AAlexAA posts small blind 300
+nathanwebber posts big blind 600
+** Hole Cards ** [7 players]
+RD5000 calls 600
+drewmarvell folds
+Hillions raises to 2160 (All-in)
+DanAbu raises to 2700 (All-in)
+tlanj folds
+AAlexAA folds
+nathanwebber folds
+RD5000 folds
+DanAbu refunded 540
+** Flop ** [As 4s 2c]
+** Turn ** [4h]
+** River ** [7d]
+** Pot Show Down ** [As 4s 2c 4h 7d]
+Hillions shows [Jc Jd] (Two Pair, Jacks and Fours +A)
+DanAbu shows [Qd Qh] (Two Pair, Queens and Fours +A)
+DanAbu wins Pot (5820) with Two Pair
+Hillions finishes tournament in place #7
+** Summary **
+Board: [As 4s 2c 4h 7d], Players: 7, Pots: 1, Total: 5820, Rake: 0, End: Showdown
+Seat 1: AAlexAA (-300) [Ks Ts] Folded on PreFlop
+Seat 3: nathanwebber (-600) [2h Qs] Folded on PreFlop
+Seat 4: RD5000 (-600) [9h 9c] Folded on PreFlop
+Seat 5: drewmarvell (+0) [2s Ah] Folded on PreFlop
+Seat 7: Hillions (-2160) [Jc Jd] Showdown with Two Pair, Jacks and Fours +A
+Seat 8: DanAbu (+3660) [Qd Qh] Showdown with Two Pair, Queens and Fours +A
+Seat 9: tlanj (+0) [7s 6d] Folded on PreFlop
+
+Hand #1889-71 - 2020-08-17 22:32:16
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2210)
+Seat 3: nathanwebber (4995)
+Seat 4: RD5000 (6600)
+Seat 5: drewmarvell (5825)
+Seat 8: DanAbu (6360)
+Seat 9: tlanj (1010)
+AAlexAA has the dealer button
+nathanwebber posts small blind 300
+RD5000 posts big blind 600
+** Hole Cards ** [6 players]
+drewmarvell folds
+DanAbu folds
+tlanj raises to 1010 (All-in)
+AAlexAA folds
+nathanwebber calls 710
+RD5000 calls 410
+** Flop ** [4h 8d Jd]
+nathanwebber checks
+RD5000 bets 1200
+nathanwebber folds
+RD5000 refunded 1200
+** Turn ** [Ac]
+** River ** [Tc]
+** Pot Show Down ** [4h 8d Jd Ac Tc]
+RD5000 shows [Jc Jh] (Three of a Kind, Jacks +AT)
+tlanj shows [6s 6h] (a Pair of Sixes +AJT)
+RD5000 wins Pot (3030) with Three of a Kind
+tlanj finishes tournament in place #6
+** Summary **
+Board: [4h 8d Jd Ac Tc], Players: 6, Pots: 1, Total: 3030, Rake: 0, End: Showdown
+Seat 1: AAlexAA (+0) [4s 8c] Folded on PreFlop
+Seat 3: nathanwebber (-1010) [9d Kc] Folded on Flop
+Seat 4: RD5000 (+2020) [Jc Jh] Showdown with Three of a Kind, Jacks +AT
+Seat 5: drewmarvell (+0) [Js 3h] Folded on PreFlop
+Seat 8: DanAbu (+0) [5s Ad] Folded on PreFlop
+Seat 9: tlanj (-1010) [6s 6h] Showdown with a Pair of Sixes +AJT
+
+Hand #1890-72 - 2020-08-17 22:33:09
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (2210)
+Seat 3: nathanwebber (3985)
+Seat 4: RD5000 (8620)
+Seat 5: drewmarvell (5825)
+Seat 8: DanAbu (6360)
+nathanwebber has the dealer button
+RD5000 posts small blind 300
+drewmarvell posts big blind 600
+** Hole Cards ** [5 players]
+DanAbu folds
+AAlexAA raises to 2210 (All-in)
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+AAlexAA refunded 1610
+AAlexAA wins Pot (1500)
+** Summary **
+Board: [], Players: 5, Pots: 1, Total: 1500, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+900) [As Qs] Won without Showdown
+Seat 3: nathanwebber (+0) [3h Tc] Folded on PreFlop
+Seat 4: RD5000 (-300) [Td 3c] Folded on PreFlop
+Seat 5: drewmarvell (-600) [2c 6c] Folded on PreFlop
+Seat 8: DanAbu (+0) [2d 4h] Folded on PreFlop
+
+Hand #1891-73 - 2020-08-17 22:33:33
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3110)
+Seat 3: nathanwebber (3985)
+Seat 4: RD5000 (8320)
+Seat 5: drewmarvell (5225)
+Seat 8: DanAbu (6360)
+RD5000 has the dealer button
+drewmarvell posts small blind 300
+DanAbu posts big blind 600
+** Hole Cards ** [5 players]
+AAlexAA folds
+nathanwebber folds
+RD5000 raises to 1200
+drewmarvell folds
+DanAbu folds
+RD5000 refunded 600
+RD5000 wins Pot (1500)
+** Summary **
+Board: [], Players: 5, Pots: 1, Total: 1500, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [3c 3d] Folded on PreFlop
+Seat 3: nathanwebber (+0) [6d Ts] Folded on PreFlop
+Seat 4: RD5000 (+900) [9d 9c] Won without Showdown
+Seat 5: drewmarvell (-300) [2d 7s] Folded on PreFlop
+Seat 8: DanAbu (-600) [6s 4d] Folded on PreFlop
+
+Hand #1892-74 - 2020-08-17 22:33:51
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (3110)
+Seat 3: nathanwebber (3985)
+Seat 4: RD5000 (9220)
+Seat 5: drewmarvell (4925)
+Seat 8: DanAbu (5760)
+drewmarvell has the dealer button
+DanAbu posts small blind 300
+AAlexAA posts big blind 600
+** Hole Cards ** [5 players]
+nathanwebber folds
+RD5000 folds
+drewmarvell raises to 1200
+DanAbu calls 900
+AAlexAA calls 600
+** Flop ** [6d Qc 7s]
+DanAbu checks
+AAlexAA bets 1910 (All-in)
+drewmarvell folds
+DanAbu folds
+AAlexAA refunded 1910
+AAlexAA wins Pot (3600)
+** Summary **
+Board: [6d Qc 7s], Players: 5, Pots: 1, Total: 3600, Rake: 0, End: Flop
+Seat 1: AAlexAA (+2400) [Kd Qh] Won without Showdown
+Seat 3: nathanwebber (+0) [7d Jc] Folded on PreFlop
+Seat 4: RD5000 (+0) [Th 3s] Folded on PreFlop
+Seat 5: drewmarvell (-1200) [3h Ah] Folded on Flop
+Seat 8: DanAbu (-1200) [9d Ac] Folded on Flop
+
+Hand #1893-75 - 2020-08-17 22:34:33
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (5510)
+Seat 3: nathanwebber (3985)
+Seat 4: RD5000 (9220)
+Seat 5: drewmarvell (3725)
+Seat 8: DanAbu (4560)
+DanAbu has the dealer button
+AAlexAA posts small blind 300
+nathanwebber posts big blind 600
+** Hole Cards ** [5 players]
+RD5000 folds
+drewmarvell folds
+DanAbu folds
+AAlexAA calls 300
+nathanwebber checks
+** Flop ** [Ah 6c 6d]
+AAlexAA checks
+nathanwebber bets 1200
+AAlexAA raises to 2400
+nathanwebber folds
+AAlexAA refunded 1200
+AAlexAA wins Pot (3600)
+AAlexAA shows [6h Ac]
+** Summary **
+Board: [Ah 6c 6d], Players: 5, Pots: 1, Total: 3600, Rake: 0, End: Flop
+Seat 1: AAlexAA (+1800) [6h Ac] Won without Showdown
+Seat 3: nathanwebber (-1800) [9s 8d] Folded on Flop
+Seat 4: RD5000 (+0) [8h 3h] Folded on PreFlop
+Seat 5: drewmarvell (+0) [4h 5c] Folded on PreFlop
+Seat 8: DanAbu (+0) [Kd 9d] Folded on PreFlop
+
+Hand #1894-76 - 2020-08-17 22:35:23
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (7310)
+Seat 3: nathanwebber (2185)
+Seat 4: RD5000 (9220)
+Seat 5: drewmarvell (3725)
+Seat 8: DanAbu (4560)
+AAlexAA has the dealer button
+nathanwebber posts small blind 300
+RD5000 posts big blind 600
+** Hole Cards ** [5 players]
+drewmarvell folds
+DanAbu folds
+AAlexAA calls 600
+nathanwebber folds
+RD5000 checks
+** Flop ** [Js Qc Kc]
+RD5000 checks
+AAlexAA bets 600
+RD5000 folds
+AAlexAA refunded 600
+AAlexAA wins Pot (1500)
+AAlexAA shows [Ts Ad]
+** Summary **
+Board: [Js Qc Kc], Players: 5, Pots: 1, Total: 1500, Rake: 0, End: Flop
+Seat 1: AAlexAA (+900) [Ts Ad] Won without Showdown
+Seat 3: nathanwebber (-300) [7s 3c] Folded on PreFlop
+Seat 4: RD5000 (-600) [5s 3h] Folded on Flop
+Seat 5: drewmarvell (+0) [Td 8s] Folded on PreFlop
+Seat 8: DanAbu (+0) [8c Th] Folded on PreFlop
+
+Hand #1895-77 - 2020-08-17 22:36:11
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (8210)
+Seat 3: nathanwebber (1885)
+Seat 4: RD5000 (8620)
+Seat 5: drewmarvell (3725)
+Seat 8: DanAbu (4560)
+nathanwebber has the dealer button
+RD5000 posts small blind 300
+drewmarvell posts big blind 600
+** Hole Cards ** [5 players]
+DanAbu folds
+AAlexAA folds
+nathanwebber folds
+RD5000 raises to 1200
+drewmarvell folds
+RD5000 refunded 600
+RD5000 wins Pot (1200)
+** Summary **
+Board: [], Players: 5, Pots: 1, Total: 1200, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [9d 4d] Folded on PreFlop
+Seat 3: nathanwebber (+0) [3h 5c] Folded on PreFlop
+Seat 4: RD5000 (+600) [As Ad] Won without Showdown
+Seat 5: drewmarvell (-600) [6d Tc] Folded on PreFlop
+Seat 8: DanAbu (+0) [7d 2s] Folded on PreFlop
+
+Hand #1896-78 - 2020-08-17 22:36:43
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (8210)
+Seat 3: nathanwebber (1885)
+Seat 4: RD5000 (9220)
+Seat 5: drewmarvell (3125)
+Seat 8: DanAbu (4560)
+RD5000 has the dealer button
+drewmarvell posts small blind 300
+DanAbu posts big blind 600
+** Hole Cards ** [5 players]
+AAlexAA folds
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+DanAbu refunded 300
+DanAbu wins Pot (600)
+** Summary **
+Board: [], Players: 5, Pots: 1, Total: 600, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [Tc 2h] Folded on PreFlop
+Seat 3: nathanwebber (+0) [9d 8s] Folded on PreFlop
+Seat 4: RD5000 (+0) [Kc 3h] Folded on PreFlop
+Seat 5: drewmarvell (-300) [7s Th] Folded on PreFlop
+Seat 8: DanAbu (+300) [8d 6d] Won without Showdown
+
+Hand #1897-79 - 2020-08-17 22:37:02
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (8210)
+Seat 3: nathanwebber (1885)
+Seat 4: RD5000 (9220)
+Seat 5: drewmarvell (2825)
+Seat 8: DanAbu (4860)
+drewmarvell has the dealer button
+DanAbu posts small blind 300
+AAlexAA posts big blind 600
+** Hole Cards ** [5 players]
+nathanwebber raises to 1885 (All-in)
+RD5000 folds
+drewmarvell folds
+DanAbu folds
+AAlexAA folds
+nathanwebber refunded 1285
+nathanwebber wins Pot (1500)
+** Summary **
+Board: [], Players: 5, Pots: 1, Total: 1500, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (-600) [4h 4c] Folded on PreFlop
+Seat 3: nathanwebber (+900) [Ad 2h] Won without Showdown
+Seat 4: RD5000 (+0) [Tc Ks] Folded on PreFlop
+Seat 5: drewmarvell (+0) [8d 3s] Folded on PreFlop
+Seat 8: DanAbu (-300) [3c 4d] Folded on PreFlop
+
+Hand #1898-80 - 2020-08-17 22:37:28
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (7610)
+Seat 3: nathanwebber (2785)
+Seat 4: RD5000 (9220)
+Seat 5: drewmarvell (2825)
+Seat 8: DanAbu (4560)
+DanAbu has the dealer button
+AAlexAA posts small blind 300
+nathanwebber posts big blind 600
+** Hole Cards ** [5 players]
+RD5000 folds
+drewmarvell folds
+DanAbu folds
+AAlexAA calls 300
+nathanwebber raises to 1200
+AAlexAA calls 600
+** Flop ** [Jc Ks 9h]
+AAlexAA bets 600
+nathanwebber calls 600
+** Turn ** [3c]
+AAlexAA bets 600
+nathanwebber raises to 985 (All-in)
+AAlexAA calls 385
+** River ** [6c]
+** Pot Show Down ** [Jc Ks 9h 3c 6c]
+AAlexAA shows [7h As] (High Card Ace +KJ97)
+nathanwebber shows [Qc 9c] (a Flush, Queen high +J963)
+nathanwebber wins Pot (5570) with a Flush
+** Summary **
+Board: [Jc Ks 9h 3c 6c], Players: 5, Pots: 1, Total: 5570, Rake: 0, End: Showdown
+Seat 1: AAlexAA (-2785) [7h As] Showdown with High Card Ace +KJ97
+Seat 3: nathanwebber (+2785) [Qc 9c] Showdown with a Flush, Queen high +J963
+Seat 4: RD5000 (+0) [9d 3h] Folded on PreFlop
+Seat 5: drewmarvell (+0) [Td 4s] Folded on PreFlop
+Seat 8: DanAbu (+0) [8c 4d] Folded on PreFlop
+
+Hand #1899-81 - 2020-08-17 22:38:19
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (4825)
+Seat 3: nathanwebber (5570)
+Seat 4: RD5000 (9220)
+Seat 5: drewmarvell (2825)
+Seat 8: DanAbu (4560)
+AAlexAA has the dealer button
+nathanwebber posts small blind 300
+RD5000 posts big blind 600
+** Hole Cards ** [5 players]
+drewmarvell folds
+DanAbu folds
+AAlexAA folds
+nathanwebber calls 300
+RD5000 checks
+** Flop ** [8c 3d 5d]
+nathanwebber bets 1200
+RD5000 folds
+nathanwebber refunded 1200
+nathanwebber wins Pot (1200)
+** Summary **
+Board: [8c 3d 5d], Players: 5, Pots: 1, Total: 1200, Rake: 0, End: Flop
+Seat 1: AAlexAA (+0) [6h Ad] Folded on PreFlop
+Seat 3: nathanwebber (+600) [3h Jh] Won without Showdown
+Seat 4: RD5000 (-600) [9c Tc] Folded on Flop
+Seat 5: drewmarvell (+0) [4d Ks] Folded on PreFlop
+Seat 8: DanAbu (+0) [2c 3s] Folded on PreFlop
+
+Hand #1900-82 - 2020-08-17 22:38:59
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (4825)
+Seat 3: nathanwebber (6170)
+Seat 4: RD5000 (8620)
+Seat 5: drewmarvell (2825)
+Seat 8: DanAbu (4560)
+nathanwebber has the dealer button
+RD5000 posts small blind 300
+drewmarvell posts big blind 600
+** Hole Cards ** [5 players]
+DanAbu folds
+AAlexAA folds
+nathanwebber folds
+RD5000 folds
+drewmarvell refunded 300
+drewmarvell wins Pot (600)
+** Summary **
+Board: [], Players: 5, Pots: 1, Total: 600, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [Qc 9s] Folded on PreFlop
+Seat 3: nathanwebber (+0) [2s Kd] Folded on PreFlop
+Seat 4: RD5000 (-300) [Th 3d] Folded on PreFlop
+Seat 5: drewmarvell (+300) [3h 7h] Won without Showdown
+Seat 8: DanAbu (+0) [Tc Jc] Folded on PreFlop
+
+Hand #1901-83 - 2020-08-17 22:39:19
+Game: NL Hold'em (3000+0) - Blinds 300/600
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (4825)
+Seat 3: nathanwebber (6170)
+Seat 4: RD5000 (8320)
+Seat 5: drewmarvell (3125)
+Seat 8: DanAbu (4560)
+RD5000 has the dealer button
+drewmarvell posts small blind 300
+DanAbu posts big blind 600
+** Hole Cards ** [5 players]
+AAlexAA folds
+nathanwebber folds
+RD5000 folds
+drewmarvell folds
+DanAbu refunded 300
+DanAbu wins Pot (600)
+DanAbu shows [7d Ad]
+** Summary **
+Board: [], Players: 5, Pots: 1, Total: 600, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (+0) [4c Tc] Folded on PreFlop
+Seat 3: nathanwebber (+0) [Ts 6h] Folded on PreFlop
+Seat 4: RD5000 (+0) [7s 8c] Folded on PreFlop
+Seat 5: drewmarvell (-300) [5s Jh] Folded on PreFlop
+Seat 8: DanAbu (+300) [7d Ad] Won without Showdown
+
+Hand #1902-84 - 2020-08-17 22:39:55
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (4825)
+Seat 3: nathanwebber (6170)
+Seat 4: RD5000 (8320)
+Seat 5: drewmarvell (2825)
+Seat 8: DanAbu (4860)
+drewmarvell has the dealer button
+DanAbu posts small blind 400
+AAlexAA posts big blind 800
+** Hole Cards ** [5 players]
+nathanwebber folds
+RD5000 folds
+drewmarvell raises to 1600
+DanAbu folds
+AAlexAA folds
+drewmarvell refunded 800
+drewmarvell wins Pot (2000)
+** Summary **
+Board: [], Players: 5, Pots: 1, Total: 2000, Rake: 0, End: PreFlop
+Seat 1: AAlexAA (-800) [Jc 4s] Folded on PreFlop
+Seat 3: nathanwebber (+0) [4h As] Folded on PreFlop
+Seat 4: RD5000 (+0) [9c 6d] Folded on PreFlop
+Seat 5: drewmarvell (+1200) [9s Ts] Won without Showdown
+Seat 8: DanAbu (-400) [2h 8s] Folded on PreFlop
+
+Hand #1903-85 - 2020-08-17 22:40:15
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 1: AAlexAA (4025)
+Seat 3: nathanwebber (6170)
+Seat 4: RD5000 (8320)
+Seat 5: drewmarvell (4025)
+Seat 8: DanAbu (4460)
+DanAbu has the dealer button
+AAlexAA posts small blind 400
+nathanwebber posts big blind 800
+** Hole Cards ** [5 players]
+RD5000 folds
+drewmarvell raises to 2400
+DanAbu folds
+AAlexAA calls 2000
+nathanwebber folds
+** Flop ** [9h 5c Th]
+AAlexAA checks
+drewmarvell bets 1625 (All-in)
+AAlexAA calls 1625 (All-in)
+** Turn ** [3c]
+** River ** [3h]
+** Pot Show Down ** [9h 5c Th 3c 3h]
+AAlexAA shows [Js Ks] (a Pair of Threes +KJT)
+drewmarvell shows [As Jc] (a Pair of Threes +AJT)
+drewmarvell wins Pot (8850) with a Pair
+AAlexAA finishes tournament in place #5
+** Summary **
+Board: [9h 5c Th 3c 3h], Players: 5, Pots: 1, Total: 8850, Rake: 0, End: Showdown
+Seat 1: AAlexAA (-4025) [Js Ks] Showdown with a Pair of Threes +KJT
+Seat 3: nathanwebber (-800) [Ah 6s] Folded on PreFlop
+Seat 4: RD5000 (+0) [7h 6d] Folded on PreFlop
+Seat 5: drewmarvell (+4825) [As Jc] Showdown with a Pair of Threes +AJT
+Seat 8: DanAbu (+0) [Qs 5h] Folded on PreFlop
+
+Hand #1904-86 - 2020-08-17 22:41:10
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (5370)
+Seat 4: RD5000 (8320)
+Seat 5: drewmarvell (8850)
+Seat 8: DanAbu (4460)
+nathanwebber has the dealer button
+RD5000 posts small blind 400
+drewmarvell posts big blind 800
+** Hole Cards ** [4 players]
+DanAbu raises to 2400
+nathanwebber calls 2400
+RD5000 folds
+drewmarvell folds
+** Flop ** [9s Kd 5s]
+DanAbu bets 2060 (All-in)
+nathanwebber folds
+DanAbu refunded 2060
+DanAbu wins Pot (6000)
+** Summary **
+Board: [9s Kd 5s], Players: 4, Pots: 1, Total: 6000, Rake: 0, End: Flop
+Seat 3: nathanwebber (-2400) [Ad Tc] Folded on Flop
+Seat 4: RD5000 (-400) [Jh Ts] Folded on PreFlop
+Seat 5: drewmarvell (-800) [7c 3c] Folded on PreFlop
+Seat 8: DanAbu (+3600) [Ac Qs] Won without Showdown
+
+Hand #1905-87 - 2020-08-17 22:42:13
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (2970)
+Seat 4: RD5000 (7920)
+Seat 5: drewmarvell (8050)
+Seat 8: DanAbu (8060)
+RD5000 has the dealer button
+drewmarvell posts small blind 400
+DanAbu posts big blind 800
+** Hole Cards ** [4 players]
+nathanwebber raises to 2970 (All-in)
+RD5000 folds
+drewmarvell folds
+DanAbu folds
+nathanwebber refunded 2170
+nathanwebber wins Pot (2000)
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 2000, Rake: 0, End: PreFlop
+Seat 3: nathanwebber (+1200) [Ad Jc] Won without Showdown
+Seat 4: RD5000 (+0) [Kc 3h] Folded on PreFlop
+Seat 5: drewmarvell (-400) [6s Th] Folded on PreFlop
+Seat 8: DanAbu (-800) [Kd 2h] Folded on PreFlop
+
+Hand #1906-88 - 2020-08-17 22:42:35
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (4170)
+Seat 4: RD5000 (7920)
+Seat 5: drewmarvell (7650)
+Seat 8: DanAbu (7260)
+drewmarvell has the dealer button
+DanAbu posts small blind 400
+nathanwebber posts big blind 800
+** Hole Cards ** [4 players]
+RD5000 folds
+drewmarvell folds
+DanAbu calls 400
+nathanwebber raises to 4170 (All-in)
+DanAbu folds
+nathanwebber refunded 3370
+nathanwebber wins Pot (1600)
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 1600, Rake: 0, End: PreFlop
+Seat 3: nathanwebber (+800) [8c Ad] Won without Showdown
+Seat 4: RD5000 (+0) [9h Th] Folded on PreFlop
+Seat 5: drewmarvell (+0) [Jc 6h] Folded on PreFlop
+Seat 8: DanAbu (-800) [Qs 6c] Folded on PreFlop
+
+Hand #1907-89 - 2020-08-17 22:43:00
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (4970)
+Seat 4: RD5000 (7920)
+Seat 5: drewmarvell (7650)
+Seat 8: DanAbu (6460)
+DanAbu has the dealer button
+nathanwebber posts small blind 400
+RD5000 posts big blind 800
+** Hole Cards ** [4 players]
+drewmarvell folds
+DanAbu folds
+nathanwebber raises to 1600
+RD5000 folds
+nathanwebber refunded 800
+nathanwebber wins Pot (1600)
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 1600, Rake: 0, End: PreFlop
+Seat 3: nathanwebber (+800) [3h Qs] Won without Showdown
+Seat 4: RD5000 (-800) [Qh 4s] Folded on PreFlop
+Seat 5: drewmarvell (+0) [5c 6c] Folded on PreFlop
+Seat 8: DanAbu (+0) [8s Kc] Folded on PreFlop
+
+Hand #1908-90 - 2020-08-17 22:43:25
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (5770)
+Seat 4: RD5000 (7120)
+Seat 5: drewmarvell (7650)
+Seat 8: DanAbu (6460)
+nathanwebber has the dealer button
+RD5000 posts small blind 400
+drewmarvell posts big blind 800
+** Hole Cards ** [4 players]
+DanAbu folds
+nathanwebber folds
+RD5000 raises to 1600
+drewmarvell folds
+RD5000 refunded 800
+RD5000 wins Pot (1600)
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 1600, Rake: 0, End: PreFlop
+Seat 3: nathanwebber (+0) [6d 3d] Folded on PreFlop
+Seat 4: RD5000 (+800) [8s Kh] Won without Showdown
+Seat 5: drewmarvell (-800) [7h Jh] Folded on PreFlop
+Seat 8: DanAbu (+0) [2s Qc] Folded on PreFlop
+
+Hand #1909-91 - 2020-08-17 22:44:00
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (5770)
+Seat 4: RD5000 (7920)
+Seat 5: drewmarvell (6850)
+Seat 8: DanAbu (6460)
+RD5000 has the dealer button
+drewmarvell posts small blind 400
+DanAbu posts big blind 800
+** Hole Cards ** [4 players]
+nathanwebber folds
+RD5000 folds
+drewmarvell raises to 1600
+DanAbu raises to 6460 (All-in)
+drewmarvell folds
+DanAbu refunded 4860
+DanAbu wins Pot (3200)
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 3200, Rake: 0, End: PreFlop
+Seat 3: nathanwebber (+0) [3c 9c] Folded on PreFlop
+Seat 4: RD5000 (+0) [Ah 7s] Folded on PreFlop
+Seat 5: drewmarvell (-1600) [3d As] Folded on PreFlop
+Seat 8: DanAbu (+1600) [Td Tc] Won without Showdown
+
+Hand #1910-92 - 2020-08-17 22:45:03
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (5770)
+Seat 4: RD5000 (7920)
+Seat 5: drewmarvell (5250)
+Seat 8: DanAbu (8060)
+drewmarvell has the dealer button
+DanAbu posts small blind 400
+nathanwebber posts big blind 800
+** Hole Cards ** [4 players]
+RD5000 folds
+drewmarvell folds
+DanAbu folds
+nathanwebber refunded 400
+nathanwebber wins Pot (800)
+nathanwebber shows [Ah 9s]
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 800, Rake: 0, End: PreFlop
+Seat 3: nathanwebber (+400) [Ah 9s] Won without Showdown
+Seat 4: RD5000 (+0) [2h Js] Folded on PreFlop
+Seat 5: drewmarvell (+0) [6d 5c] Folded on PreFlop
+Seat 8: DanAbu (-400) [3s 2d] Folded on PreFlop
+
+Hand #1911-93 - 2020-08-17 22:45:18
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (6170)
+Seat 4: RD5000 (7920)
+Seat 5: drewmarvell (5250)
+Seat 8: DanAbu (7660)
+DanAbu has the dealer button
+nathanwebber posts small blind 400
+RD5000 posts big blind 800
+** Hole Cards ** [4 players]
+drewmarvell folds
+DanAbu folds
+nathanwebber raises to 2400
+RD5000 raises to 7920 (All-in)
+nathanwebber folds
+RD5000 refunded 5520
+RD5000 wins Pot (4800)
+RD5000 shows [Jc Kh]
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 4800, Rake: 0, End: PreFlop
+Seat 3: nathanwebber (-2400) [7h 6d] Folded on PreFlop
+Seat 4: RD5000 (+2400) [Jc Kh] Won without Showdown
+Seat 5: drewmarvell (+0) [Th 7c] Folded on PreFlop
+Seat 8: DanAbu (+0) [Kc 7d] Folded on PreFlop
+
+Hand #1912-94 - 2020-08-17 22:45:48
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (3770)
+Seat 4: RD5000 (10320)
+Seat 5: drewmarvell (5250)
+Seat 8: DanAbu (7660)
+nathanwebber has the dealer button
+RD5000 posts small blind 400
+drewmarvell posts big blind 800
+** Hole Cards ** [4 players]
+DanAbu folds
+nathanwebber folds
+RD5000 calls 400
+drewmarvell checks
+** Flop ** [5h 2h 6h]
+RD5000 bets 1200
+drewmarvell folds
+RD5000 refunded 1200
+RD5000 wins Pot (1600)
+** Summary **
+Board: [5h 2h 6h], Players: 4, Pots: 1, Total: 1600, Rake: 0, End: Flop
+Seat 3: nathanwebber (+0) [6c Tc] Folded on PreFlop
+Seat 4: RD5000 (+800) [Ah 6s] Won without Showdown
+Seat 5: drewmarvell (-800) [9s 4s] Folded on Flop
+Seat 8: DanAbu (+0) [3h Kc] Folded on PreFlop
+
+Hand #1913-95 - 2020-08-17 22:46:26
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (3770)
+Seat 4: RD5000 (11120)
+Seat 5: drewmarvell (4450)
+Seat 8: DanAbu (7660)
+RD5000 has the dealer button
+drewmarvell posts small blind 400
+DanAbu posts big blind 800
+** Hole Cards ** [4 players]
+nathanwebber folds
+RD5000 folds
+drewmarvell calls 400
+DanAbu raises to 3200
+drewmarvell folds
+DanAbu refunded 2400
+DanAbu wins Pot (1600)
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 1600, Rake: 0, End: PreFlop
+Seat 3: nathanwebber (+0) [9c 3c] Folded on PreFlop
+Seat 4: RD5000 (+0) [Jd 7c] Folded on PreFlop
+Seat 5: drewmarvell (-800) [3h 9d] Folded on PreFlop
+Seat 8: DanAbu (+800) [Kh Ah] Won without Showdown
+
+Hand #1914-96 - 2020-08-17 22:46:55
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (3770)
+Seat 4: RD5000 (11120)
+Seat 5: drewmarvell (3650)
+Seat 8: DanAbu (8460)
+drewmarvell has the dealer button
+DanAbu posts small blind 400
+nathanwebber posts big blind 800
+** Hole Cards ** [4 players]
+RD5000 raises to 1600
+drewmarvell folds
+DanAbu folds
+nathanwebber folds
+RD5000 refunded 800
+RD5000 wins Pot (2000)
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 2000, Rake: 0, End: PreFlop
+Seat 3: nathanwebber (-800) [Ks 8c] Folded on PreFlop
+Seat 4: RD5000 (+1200) [Qh Jh] Won without Showdown
+Seat 5: drewmarvell (+0) [Kh 2d] Folded on PreFlop
+Seat 8: DanAbu (-400) [Qd 6s] Folded on PreFlop
+
+Hand #1915-97 - 2020-08-17 22:47:20
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (2970)
+Seat 4: RD5000 (12320)
+Seat 5: drewmarvell (3650)
+Seat 8: DanAbu (8060)
+DanAbu has the dealer button
+nathanwebber posts small blind 400
+RD5000 posts big blind 800
+** Hole Cards ** [4 players]
+drewmarvell folds
+DanAbu folds
+nathanwebber raises to 2970 (All-in)
+RD5000 folds
+nathanwebber refunded 2170
+nathanwebber wins Pot (1600)
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 1600, Rake: 0, End: PreFlop
+Seat 3: nathanwebber (+800) [Ad Jd] Won without Showdown
+Seat 4: RD5000 (-800) [5s 2c] Folded on PreFlop
+Seat 5: drewmarvell (+0) [6c 5d] Folded on PreFlop
+Seat 8: DanAbu (+0) [Kh 3s] Folded on PreFlop
+
+Hand #1916-98 - 2020-08-17 22:47:52
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (3770)
+Seat 4: RD5000 (11520)
+Seat 5: drewmarvell (3650)
+Seat 8: DanAbu (8060)
+nathanwebber has the dealer button
+RD5000 posts small blind 400
+drewmarvell posts big blind 800
+** Hole Cards ** [4 players]
+DanAbu folds
+nathanwebber folds
+RD5000 calls 400
+drewmarvell raises to 3650 (All-in)
+RD5000 folds
+drewmarvell refunded 2850
+drewmarvell wins Pot (1600)
+** Summary **
+Board: [], Players: 4, Pots: 1, Total: 1600, Rake: 0, End: PreFlop
+Seat 3: nathanwebber (+0) [3d 5d] Folded on PreFlop
+Seat 4: RD5000 (-800) [Js 7h] Folded on PreFlop
+Seat 5: drewmarvell (+800) [3s 3h] Won without Showdown
+Seat 8: DanAbu (+0) [2c 9s] Folded on PreFlop
+
+Hand #1917-99 - 2020-08-17 22:48:17
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (3770)
+Seat 4: RD5000 (10720)
+Seat 5: drewmarvell (4450)
+Seat 8: DanAbu (8060)
+RD5000 has the dealer button
+drewmarvell posts small blind 400
+DanAbu posts big blind 800
+** Hole Cards ** [4 players]
+nathanwebber folds
+RD5000 calls 800
+drewmarvell folds
+DanAbu checks
+** Flop ** [3c As Ad]
+DanAbu checks
+RD5000 bets 800
+DanAbu folds
+RD5000 refunded 800
+RD5000 wins Pot (2000)
+** Summary **
+Board: [3c As Ad], Players: 4, Pots: 1, Total: 2000, Rake: 0, End: Flop
+Seat 3: nathanwebber (+0) [2c 7c] Folded on PreFlop
+Seat 4: RD5000 (+1200) [Js Qc] Won without Showdown
+Seat 5: drewmarvell (-400) [Tc 5d] Folded on PreFlop
+Seat 8: DanAbu (-800) [Ts Kc] Folded on Flop
+
+Hand #1918-100 - 2020-08-17 22:49:02
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (3770)
+Seat 4: RD5000 (11920)
+Seat 5: drewmarvell (4050)
+Seat 8: DanAbu (7260)
+drewmarvell has the dealer button
+DanAbu posts small blind 400
+nathanwebber posts big blind 800
+** Hole Cards ** [4 players]
+RD5000 raises to 1600
+drewmarvell folds
+DanAbu folds
+nathanwebber calls 800
+** Flop ** [4h 9s 6d]
+nathanwebber checks
+RD5000 bets 10320 (All-in)
+nathanwebber folds
+RD5000 refunded 10320
+RD5000 wins Pot (3600)
+** Summary **
+Board: [4h 9s 6d], Players: 4, Pots: 1, Total: 3600, Rake: 0, End: Flop
+Seat 3: nathanwebber (-1600) [Jh Tc] Folded on Flop
+Seat 4: RD5000 (+2000) [Js Ah] Won without Showdown
+Seat 5: drewmarvell (+0) [2d 5c] Folded on PreFlop
+Seat 8: DanAbu (-400) [Kh 5s] Folded on PreFlop
+
+Hand #1919-101 - 2020-08-17 22:49:48
+Game: NL Hold'em (3000+0) - Blinds 400/800
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 3: nathanwebber (2170)
+Seat 4: RD5000 (13920)
+Seat 5: drewmarvell (4050)
+Seat 8: DanAbu (6860)
+DanAbu has the dealer button
+nathanwebber posts small blind 400
+RD5000 posts big blind 800
+** Hole Cards ** [4 players]
+drewmarvell folds
+DanAbu folds
+nathanwebber raises to 2170 (All-in)
+RD5000 calls 1370
+** Flop ** [Ah 3s Jd]
+** Turn ** [2s]
+** River ** [Td]
+** Pot Show Down ** [Ah 3s Jd 2s Td]
+nathanwebber shows [6c 6d] (a Pair of Sixes +AJT)
+RD5000 shows [3h As] (Two Pair, Aces and Threes +J)
+RD5000 wins Pot (4340) with Two Pair
+nathanwebber finishes tournament in place #4
+** Summary **
+Board: [Ah 3s Jd 2s Td], Players: 4, Pots: 1, Total: 4340, Rake: 0, End: Showdown
+Seat 3: nathanwebber (-2170) [6c 6d] Showdown with a Pair of Sixes +AJT
+Seat 4: RD5000 (+2170) [3h As] Showdown with Two Pair, Aces and Threes +J
+Seat 5: drewmarvell (+0) [Qh 9d] Folded on PreFlop
+Seat 8: DanAbu (+0) [6s 4s] Folded on PreFlop
+
+Hand #1920-102 - 2020-08-17 22:50:46
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (16090)
+Seat 5: drewmarvell (4050)
+Seat 8: DanAbu (6860)
+RD5000 has the dealer button
+drewmarvell posts small blind 600
+DanAbu posts big blind 1200
+** Hole Cards ** [3 players]
+RD5000 folds
+drewmarvell raises to 4050 (All-in)
+DanAbu folds
+drewmarvell refunded 2850
+drewmarvell wins Pot (2400)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 2400, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+0) [5d 3c] Folded on PreFlop
+Seat 5: drewmarvell (+1200) [6d 6h] Won without Showdown
+Seat 8: DanAbu (-1200) [Kh 9d] Folded on PreFlop
+
+Hand #1921-103 - 2020-08-17 22:51:05
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (16090)
+Seat 5: drewmarvell (5250)
+Seat 8: DanAbu (5660)
+drewmarvell has the dealer button
+DanAbu posts small blind 600
+RD5000 posts big blind 1200
+** Hole Cards ** [3 players]
+drewmarvell folds
+DanAbu folds
+RD5000 refunded 600
+RD5000 wins Pot (1200)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 1200, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+600) [6d Ks] Won without Showdown
+Seat 5: drewmarvell (+0) [6s Kc] Folded on PreFlop
+Seat 8: DanAbu (-600) [Js 3h] Folded on PreFlop
+
+Hand #1922-104 - 2020-08-17 22:51:25
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (16690)
+Seat 5: drewmarvell (5250)
+Seat 8: DanAbu (5060)
+DanAbu has the dealer button
+RD5000 posts small blind 600
+drewmarvell posts big blind 1200
+** Hole Cards ** [3 players]
+DanAbu folds
+RD5000 folds
+drewmarvell refunded 600
+drewmarvell wins Pot (1200)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 1200, Rake: 0, End: PreFlop
+Seat 4: RD5000 (-600) [2h 7d] Folded on PreFlop
+Seat 5: drewmarvell (+600) [9c Ac] Won without Showdown
+Seat 8: DanAbu (+0) [7s 2c] Folded on PreFlop
+
+Hand #1923-105 - 2020-08-17 22:51:42
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (16090)
+Seat 5: drewmarvell (5850)
+Seat 8: DanAbu (5060)
+RD5000 has the dealer button
+drewmarvell posts small blind 600
+DanAbu posts big blind 1200
+** Hole Cards ** [3 players]
+RD5000 folds
+drewmarvell raises to 2400
+DanAbu folds
+drewmarvell refunded 1200
+drewmarvell wins Pot (2400)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 2400, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+0) [3h Jc] Folded on PreFlop
+Seat 5: drewmarvell (+1200) [2s Ac] Won without Showdown
+Seat 8: DanAbu (-1200) [Td 4s] Folded on PreFlop
+
+Hand #1924-106 - 2020-08-17 22:51:59
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (16090)
+Seat 5: drewmarvell (7050)
+Seat 8: DanAbu (3860)
+drewmarvell has the dealer button
+DanAbu posts small blind 600
+RD5000 posts big blind 1200
+** Hole Cards ** [3 players]
+drewmarvell folds
+DanAbu folds
+RD5000 refunded 600
+RD5000 wins Pot (1200)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 1200, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+600) [Qc 4s] Won without Showdown
+Seat 5: drewmarvell (+0) [9s 7s] Folded on PreFlop
+Seat 8: DanAbu (-600) [4h 9c] Folded on PreFlop
+
+Hand #1925-107 - 2020-08-17 22:52:15
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (16690)
+Seat 5: drewmarvell (7050)
+Seat 8: DanAbu (3260)
+DanAbu has the dealer button
+RD5000 posts small blind 600
+drewmarvell posts big blind 1200
+** Hole Cards ** [3 players]
+DanAbu raises to 3260 (All-in)
+RD5000 folds
+drewmarvell folds
+DanAbu refunded 2060
+DanAbu wins Pot (3000)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 3000, Rake: 0, End: PreFlop
+Seat 4: RD5000 (-600) [8h 6d] Folded on PreFlop
+Seat 5: drewmarvell (-1200) [2d 4h] Folded on PreFlop
+Seat 8: DanAbu (+1800) [5s 5d] Won without Showdown
+
+Hand #1926-108 - 2020-08-17 22:52:31
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (16090)
+Seat 5: drewmarvell (5850)
+Seat 8: DanAbu (5060)
+RD5000 has the dealer button
+drewmarvell posts small blind 600
+DanAbu posts big blind 1200
+** Hole Cards ** [3 players]
+RD5000 folds
+drewmarvell folds
+DanAbu refunded 600
+DanAbu wins Pot (1200)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 1200, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+0) [6c Jc] Folded on PreFlop
+Seat 5: drewmarvell (-600) [4c Jd] Folded on PreFlop
+Seat 8: DanAbu (+600) [Kc Tc] Won without Showdown
+
+Hand #1927-109 - 2020-08-17 22:53:08
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (16090)
+Seat 5: drewmarvell (5250)
+Seat 8: DanAbu (5660)
+drewmarvell has the dealer button
+DanAbu posts small blind 600
+RD5000 posts big blind 1200
+** Hole Cards ** [3 players]
+drewmarvell folds
+DanAbu raises to 2400
+RD5000 folds
+DanAbu refunded 1200
+DanAbu wins Pot (2400)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 2400, Rake: 0, End: PreFlop
+Seat 4: RD5000 (-1200) [9d 5d] Folded on PreFlop
+Seat 5: drewmarvell (+0) [6s 7d] Folded on PreFlop
+Seat 8: DanAbu (+1200) [Ts Ac] Won without Showdown
+
+Hand #1928-110 - 2020-08-17 22:53:30
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (14890)
+Seat 5: drewmarvell (5250)
+Seat 8: DanAbu (6860)
+DanAbu has the dealer button
+RD5000 posts small blind 600
+drewmarvell posts big blind 1200
+** Hole Cards ** [3 players]
+DanAbu folds
+RD5000 folds
+drewmarvell refunded 600
+drewmarvell wins Pot (1200)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 1200, Rake: 0, End: PreFlop
+Seat 4: RD5000 (-600) [7d 3d] Folded on PreFlop
+Seat 5: drewmarvell (+600) [5d 9h] Won without Showdown
+Seat 8: DanAbu (+0) [7h 2h] Folded on PreFlop
+
+Hand #1929-111 - 2020-08-17 22:53:43
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (14290)
+Seat 5: drewmarvell (5850)
+Seat 8: DanAbu (6860)
+RD5000 has the dealer button
+drewmarvell posts small blind 600
+DanAbu posts big blind 1200
+** Hole Cards ** [3 players]
+RD5000 folds
+drewmarvell raises to 3600
+DanAbu folds
+drewmarvell refunded 2400
+drewmarvell wins Pot (2400)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 2400, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+0) [Jh 3d] Folded on PreFlop
+Seat 5: drewmarvell (+1200) [8d As] Won without Showdown
+Seat 8: DanAbu (-1200) [5c Ks] Folded on PreFlop
+
+Hand #1930-112 - 2020-08-17 22:53:58
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (14290)
+Seat 5: drewmarvell (7050)
+Seat 8: DanAbu (5660)
+drewmarvell has the dealer button
+DanAbu posts small blind 600
+RD5000 posts big blind 1200
+** Hole Cards ** [3 players]
+drewmarvell folds
+DanAbu folds
+RD5000 refunded 600
+RD5000 wins Pot (1200)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 1200, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+600) [3h Jd] Won without Showdown
+Seat 5: drewmarvell (+0) [3d 9h] Folded on PreFlop
+Seat 8: DanAbu (-600) [8c 5c] Folded on PreFlop
+
+Hand #1931-113 - 2020-08-17 22:54:16
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (14890)
+Seat 5: drewmarvell (7050)
+Seat 8: DanAbu (5060)
+DanAbu has the dealer button
+RD5000 posts small blind 600
+drewmarvell posts big blind 1200
+** Hole Cards ** [3 players]
+DanAbu folds
+RD5000 calls 600
+drewmarvell raises to 4800
+RD5000 folds
+drewmarvell refunded 3600
+drewmarvell wins Pot (2400)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 2400, Rake: 0, End: PreFlop
+Seat 4: RD5000 (-1200) [7d Jc] Folded on PreFlop
+Seat 5: drewmarvell (+1200) [5d As] Won without Showdown
+Seat 8: DanAbu (+0) [Qh 5s] Folded on PreFlop
+
+Hand #1932-114 - 2020-08-17 22:54:39
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (13690)
+Seat 5: drewmarvell (8250)
+Seat 8: DanAbu (5060)
+RD5000 has the dealer button
+drewmarvell posts small blind 600
+DanAbu posts big blind 1200
+** Hole Cards ** [3 players]
+RD5000 raises to 2400
+drewmarvell folds
+DanAbu folds
+RD5000 refunded 1200
+RD5000 wins Pot (3000)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 3000, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+1800) [4c Ac] Won without Showdown
+Seat 5: drewmarvell (-600) [Qd 5d] Folded on PreFlop
+Seat 8: DanAbu (-1200) [7d 8h] Folded on PreFlop
+
+Hand #1933-115 - 2020-08-17 22:54:57
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (15490)
+Seat 5: drewmarvell (7650)
+Seat 8: DanAbu (3860)
+drewmarvell has the dealer button
+DanAbu posts small blind 600
+RD5000 posts big blind 1200
+** Hole Cards ** [3 players]
+drewmarvell folds
+DanAbu folds
+RD5000 refunded 600
+RD5000 wins Pot (1200)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 1200, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+600) [Th Jh] Won without Showdown
+Seat 5: drewmarvell (+0) [9d Jc] Folded on PreFlop
+Seat 8: DanAbu (-600) [6h 3h] Folded on PreFlop
+
+Hand #1934-116 - 2020-08-17 22:55:15
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (16090)
+Seat 5: drewmarvell (7650)
+Seat 8: DanAbu (3260)
+DanAbu has the dealer button
+RD5000 posts small blind 600
+drewmarvell posts big blind 1200
+** Hole Cards ** [3 players]
+DanAbu folds
+RD5000 folds
+drewmarvell refunded 600
+drewmarvell wins Pot (1200)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 1200, Rake: 0, End: PreFlop
+Seat 4: RD5000 (-600) [8h 2c] Folded on PreFlop
+Seat 5: drewmarvell (+600) [5h 5s] Won without Showdown
+Seat 8: DanAbu (+0) [4s 7d] Folded on PreFlop
+
+Hand #1935-117 - 2020-08-17 22:55:26
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (15490)
+Seat 5: drewmarvell (8250)
+Seat 8: DanAbu (3260)
+RD5000 has the dealer button
+drewmarvell posts small blind 600
+DanAbu posts big blind 1200
+** Hole Cards ** [3 players]
+RD5000 folds
+drewmarvell raises to 2400
+DanAbu raises to 3260 (All-in)
+drewmarvell calls 860
+** Flop ** [Td Jh Qc]
+** Turn ** [2c]
+** River ** [Kh]
+** Pot Show Down ** [Td Jh Qc 2c Kh]
+drewmarvell shows [Jd 7h] (a Pair of Jacks +KQT)
+DanAbu shows [5d Ah] (a Straight, Ten to Ace)
+DanAbu wins Pot (6520) with a Straight
+** Summary **
+Board: [Td Jh Qc 2c Kh], Players: 3, Pots: 1, Total: 6520, Rake: 0, End: Showdown
+Seat 4: RD5000 (+0) [6d 5s] Folded on PreFlop
+Seat 5: drewmarvell (-3260) [Jd 7h] Showdown with a Pair of Jacks +KQT
+Seat 8: DanAbu (+3260) [5d Ah] Showdown with a Straight, Ten to Ace
+
+Hand #1936-118 - 2020-08-17 22:55:55
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (15490)
+Seat 5: drewmarvell (4990)
+Seat 8: DanAbu (6520)
+drewmarvell has the dealer button
+DanAbu posts small blind 600
+RD5000 posts big blind 1200
+** Hole Cards ** [3 players]
+drewmarvell folds
+DanAbu folds
+RD5000 refunded 600
+RD5000 wins Pot (1200)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 1200, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+600) [Ts 6d] Won without Showdown
+Seat 5: drewmarvell (+0) [3s 5h] Folded on PreFlop
+Seat 8: DanAbu (-600) [4c 5d] Folded on PreFlop
+
+Hand #1937-119 - 2020-08-17 22:56:11
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (16090)
+Seat 5: drewmarvell (4990)
+Seat 8: DanAbu (5920)
+DanAbu has the dealer button
+RD5000 posts small blind 600
+drewmarvell posts big blind 1200
+** Hole Cards ** [3 players]
+DanAbu folds
+RD5000 raises to 2400
+drewmarvell folds
+RD5000 refunded 1200
+RD5000 wins Pot (2400)
+** Summary **
+Board: [], Players: 3, Pots: 1, Total: 2400, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+1200) [Jd Js] Won without Showdown
+Seat 5: drewmarvell (-1200) [6h 8h] Folded on PreFlop
+Seat 8: DanAbu (+0) [8s 7h] Folded on PreFlop
+
+Hand #1938-120 - 2020-08-17 22:56:36
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (17290)
+Seat 5: drewmarvell (3790)
+Seat 8: DanAbu (5920)
+RD5000 has the dealer button
+drewmarvell posts small blind 600
+DanAbu posts big blind 1200
+** Hole Cards ** [3 players]
+RD5000 calls 1200
+drewmarvell folds
+DanAbu checks
+** Flop ** [7d Ah 3c]
+DanAbu checks
+RD5000 bets 1200
+DanAbu folds
+RD5000 refunded 1200
+RD5000 wins Pot (3000)
+** Summary **
+Board: [7d Ah 3c], Players: 3, Pots: 1, Total: 3000, Rake: 0, End: Flop
+Seat 4: RD5000 (+1800) [Jh Qc] Won without Showdown
+Seat 5: drewmarvell (-600) [5s 7s] Folded on PreFlop
+Seat 8: DanAbu (-1200) [Kh Tc] Folded on Flop
+
+Hand #1939-121 - 2020-08-17 22:57:05
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (19090)
+Seat 5: drewmarvell (3190)
+Seat 8: DanAbu (4720)
+drewmarvell has the dealer button
+DanAbu posts small blind 600
+RD5000 posts big blind 1200
+** Hole Cards ** [3 players]
+drewmarvell raises to 3190 (All-in)
+DanAbu raises to 4720 (All-in)
+RD5000 folds
+DanAbu refunded 1530
+** Flop ** [3c 8s Ts]
+** Turn ** [Jc]
+** River ** [3d]
+** Pot Show Down ** [3c 8s Ts Jc 3d]
+drewmarvell shows [As 4s] (a Pair of Threes +AJT)
+DanAbu shows [Tc Th] (a Full House, Tens full of Threes)
+DanAbu wins Pot (7580) with a Full House
+drewmarvell finishes tournament in place #3 and wins 5400 chips
+** Summary **
+Board: [3c 8s Ts Jc 3d], Players: 3, Pots: 1, Total: 7580, Rake: 0, End: Showdown
+Seat 4: RD5000 (-1200) [5s 8d] Folded on PreFlop
+Seat 5: drewmarvell (-3190) [As 4s] Showdown with a Pair of Threes +AJT
+Seat 8: DanAbu (+4390) [Tc Th] Showdown with a Full House, Tens full of Threes
+
+Hand #1940-122 - 2020-08-17 22:57:28
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (17890)
+Seat 8: DanAbu (9110)
+DanAbu has the dealer button
+DanAbu posts small blind 600
+RD5000 posts big blind 1200
+** Hole Cards ** [2 players]
+DanAbu raises to 2400
+RD5000 folds
+DanAbu refunded 1200
+DanAbu wins Pot (2400)
+** Summary **
+Board: [], Players: 2, Pots: 1, Total: 2400, Rake: 0, End: PreFlop
+Seat 4: RD5000 (-1200) [2s Td] Folded on PreFlop
+Seat 8: DanAbu (+1200) [5c 5d] Won without Showdown
+
+Hand #1941-123 - 2020-08-17 22:57:45
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (16690)
+Seat 8: DanAbu (10310)
+RD5000 has the dealer button
+RD5000 posts small blind 600
+DanAbu posts big blind 1200
+** Hole Cards ** [2 players]
+RD5000 raises to 2400
+DanAbu calls 1200
+** Flop ** [7c Jd 5c]
+DanAbu checks
+RD5000 bets 2400
+DanAbu raises to 4800
+RD5000 raises to 14290 (All-in)
+DanAbu calls 3110 (All-in)
+RD5000 refunded 6380
+** Turn ** [6c]
+** River ** [7d]
+** Pot Show Down ** [7c Jd 5c 6c 7d]
+RD5000 shows [5s 9s] (Two Pair, Sevens and Fives +J)
+DanAbu shows [5h Jh] (Two Pair, Jacks and Sevens +6)
+DanAbu wins Pot (20620) with Two Pair
+** Summary **
+Board: [7c Jd 5c 6c 7d], Players: 2, Pots: 1, Total: 20620, Rake: 0, End: Showdown
+Seat 4: RD5000 (-10310) [5s 9s] Showdown with Two Pair, Sevens and Fives +J
+Seat 8: DanAbu (+10310) [5h Jh] Showdown with Two Pair, Jacks and Sevens +6
+
+Hand #1942-124 - 2020-08-17 22:58:29
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (6380)
+Seat 8: DanAbu (20620)
+DanAbu has the dealer button
+DanAbu posts small blind 600
+RD5000 posts big blind 1200
+** Hole Cards ** [2 players]
+DanAbu folds
+RD5000 refunded 600
+RD5000 wins Pot (1200)
+** Summary **
+Board: [], Players: 2, Pots: 1, Total: 1200, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+600) [6c 4h] Won without Showdown
+Seat 8: DanAbu (-600) [4s 8d] Folded on PreFlop
+
+Hand #1943-125 - 2020-08-17 22:58:42
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (6980)
+Seat 8: DanAbu (20020)
+RD5000 has the dealer button
+RD5000 posts small blind 600
+DanAbu posts big blind 1200
+** Hole Cards ** [2 players]
+RD5000 folds
+DanAbu refunded 600
+DanAbu wins Pot (1200)
+** Summary **
+Board: [], Players: 2, Pots: 1, Total: 1200, Rake: 0, End: PreFlop
+Seat 4: RD5000 (-600) [Jh 4c] Folded on PreFlop
+Seat 8: DanAbu (+600) [3s 6s] Won without Showdown
+
+Hand #1944-126 - 2020-08-17 22:58:58
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (6380)
+Seat 8: DanAbu (20620)
+DanAbu has the dealer button
+DanAbu posts small blind 600
+RD5000 posts big blind 1200
+** Hole Cards ** [2 players]
+DanAbu raises to 2400
+RD5000 raises to 6380 (All-in)
+DanAbu calls 3980
+** Flop ** [Ks 4s 4c]
+** Turn ** [5d]
+** River ** [Kh]
+** Pot Show Down ** [Ks 4s 4c 5d Kh]
+RD5000 shows [Qd As] (Two Pair, Kings and Fours +A)
+DanAbu shows [Ah Qc] (Two Pair, Kings and Fours +A)
+RD5000 splits Pot (6380) with Two Pair
+DanAbu splits Pot (6380) with Two Pair
+** Summary **
+Board: [Ks 4s 4c 5d Kh], Players: 2, Pots: 1, Total: 12760, Rake: 0, End: Showdown
+Seat 4: RD5000 (+0) [Qd As] Showdown with Two Pair, Kings and Fours +A
+Seat 8: DanAbu (+0) [Ah Qc] Showdown with Two Pair, Kings and Fours +A
+
+Hand #1945-127 - 2020-08-17 22:59:21
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (6380)
+Seat 8: DanAbu (20620)
+RD5000 has the dealer button
+RD5000 posts small blind 600
+DanAbu posts big blind 1200
+** Hole Cards ** [2 players]
+RD5000 raises to 2400
+DanAbu folds
+RD5000 refunded 1200
+RD5000 wins Pot (2400)
+** Summary **
+Board: [], Players: 2, Pots: 1, Total: 2400, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+1200) [5d 5h] Won without Showdown
+Seat 8: DanAbu (-1200) [5s 4c] Folded on PreFlop
+
+Hand #1946-128 - 2020-08-17 22:59:39
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (7580)
+Seat 8: DanAbu (19420)
+DanAbu has the dealer button
+DanAbu posts small blind 600
+RD5000 posts big blind 1200
+** Hole Cards ** [2 players]
+DanAbu folds
+RD5000 refunded 600
+RD5000 wins Pot (1200)
+** Summary **
+Board: [], Players: 2, Pots: 1, Total: 1200, Rake: 0, End: PreFlop
+Seat 4: RD5000 (+600) [9s Kd] Won without Showdown
+Seat 8: DanAbu (-600) [3h Td] Folded on PreFlop
+
+Hand #1947-129 - 2020-08-17 22:59:51
+Game: NL Hold'em (3000+0) - Blinds 600/1200
+Site: Cleaver Street Casino
+Table: Poker817$50 - Table 1
+Seat 4: RD5000 (8180)
+Seat 8: DanAbu (18820)
+RD5000 has the dealer button
+RD5000 posts small blind 600
+DanAbu posts big blind 1200
+** Hole Cards ** [2 players]
+RD5000 raises to 3600
+DanAbu raises to 10800
+RD5000 calls 4580 (All-in)
+DanAbu refunded 2620
+** Flop ** [3s Qd 8c]
+** Turn ** [Js]
+** River ** [2h]
+** Pot Show Down ** [3s Qd 8c Js 2h]
+RD5000 shows [8d As] (a Pair of Eights +AQJ)
+DanAbu shows [Ac Ad] (a Pair of Aces +QJ8)
+DanAbu wins Pot (16360) with a Pair
+RD5000 finishes tournament in place #2 and wins 8100 chips
+DanAbu finishes tournament in place #1 and wins 13500 chips
+** Summary **
+Board: [3s Qd 8c Js 2h], Players: 2, Pots: 1, Total: 16360, Rake: 0, End: Showdown
+Seat 4: RD5000 (-8180) [8d As] Showdown with a Pair of Eights +AQJ
+Seat 8: DanAbu (+8180) [Ac Ad] Showdown with a Pair of Aces +QJ8
+
+Table closed - 2020-08-17 23:00:25
