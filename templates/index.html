@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block main %}
+Hello
+<button onclick()="">Generate Graph</button>
+<div id="chart">
+	<embed type="image/svg+xml" = src= {{ chart|safe }} />
+</div>
+{% endblock %}
+
